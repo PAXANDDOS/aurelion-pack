@@ -1,21 +1,104 @@
+## [3.2.0] - 2025-02-28
+
+Due to performance reasons we're removing models, quite sad but I'll see if it helps the situation (my friends literally play in 20fps). Adding cosmetics instead.
+
+### Added
+
+- [Dead And Bored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/)
+- [Ghost Codes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
+- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/)
+- [Reserved Flashlight Slot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
+- [Sell From Terminal](https://thunderstore.io/c/lethal-company/p/stormytuna/SellFromTerminal/)
+- [Devil May Company](https://thunderstore.io/c/lethal-company/p/loserlilith/DevilMayCompany/)
+- [Erics Scrap Helmet](https://thunderstore.io/c/lethal-company/p/EricsTeam/EricsScrap_Helmet/)
+- [Frosty Suits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/)
+- [Fortnite Furry Girl Cosmetics](https://thunderstore.io/c/lethal-company/p/RazzyRazRaz/Fortnite_Furry_Girl_Cosmetics/)
+- [Goon Suits](https://thunderstore.io/c/lethal-company/p/ironbean/goonsuits/)
+- [More Head](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/)
+- [Nikkis Cosmetic Kingdom](https://thunderstore.io/c/lethal-company/p/Nikki/NikkisCosmeticKingdom/)
+- [Simple Hats](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
+- [Ukrainian Core Suits](https://thunderstore.io/c/lethal-company/p/DarkMorosh/Ukrainian_Core_Suits/)
+
+### Changed
+
+- **Too Many Emotes** (not enough):
+  - increased number of emotes in store rotation (6 -> 8)
+  - increased starting emote credits (100 -> 300)
+  - increased credits multiplier (0.333 -> 0.4)
+  - increased likelyhood of epic emote (0.135 -> 0.18)
+  - increased likelyhood of legendary emote (0.015 -> 0.09)
+  - reduced likelyhood of common emote (0.5 -> 0.45)
+  - reduced epic emote price (200 -> 150)
+  - reduced legendary emote price (300 -> 200)
+- **Telepathic Object**:
+  - increased spawn chance (50 -> 150) (wtf slider range is 0 through 99999)
+  - reduced speed in chase  (6 -> 4.5)
+  - reduced distance to melee (7.5 -> 6)
+- **Suits Terminal**:
+  - disabled banner hints
+  - set change page as default menu
+- **Lethal Progression**:
+  - increased health regen multiplier (0.05 -> 0.09)
+  - increased stamina multiplier (2 -> 3.2)
+- **Huntdown**:
+  - disabled Bracken mission
+  - disabled Good Boy mission
+  - disabled Infestation mission
+  - disabled Last Months Interns mission
+- **Ship Windows**:
+  - unlocked door windows by default
+  - disabled Wesley shutter voice
+  - disable shutter scan node
+  - disabled window shutter
+- **More Suits**: reverted to defaults
+- **Too Many Suits**: reverted to defaults
+
+### Updated
+
+- [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `3.12.1` -> `3.12.2`
+- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.3` -> `1.9.7`
+- [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/) `2.5.5 -> 2.5.7`
+- [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/) `2.0.11` -> `2.1.0`
+- [JLL](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/) `1.9.1` -> `1.9.2`
+- [Atlantica](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Atlantica/) `4.0.1` -> `4.1.2`
+- [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/) `0.2.22` -> `0.2.23`
+
+### Removed
+
+- [Escanor](https://thunderstore.io/c/lethal-company/p/Drunger/Escanor_Model/)
+- [Gabriel](https://thunderstore.io/c/lethal-company/p/doppelwrangler/Gabriel_Suit/)
+- [Ghostface](https://thunderstore.io/c/lethal-company/p/BruhMMods/LethalGhostface/)
+- [Hunk](https://thunderstore.io/c/lethal-company/p/Yakutare/HunkModel/)
+- [Loona](https://thunderstore.io/c/lethal-company/p/Unga_bunga/loona/)
+- [Mirasuits](https://thunderstore.io/c/lethal-company/p/Mirayah/Mirasuits/)
+- [Rocket Racoon](https://thunderstore.io/c/lethal-company/p/YaBoyCamo/Rocket_Raccoon_Playermodel/)
+- [Zenless Zone Zero](https://thunderstore.io/c/lethal-company/p/inki/ZenlessZoneZeroSuits/)
+- [Herobrine](https://thunderstore.io/c/lethal-company/p/Kittenji/Herobrine/)
+- [Gojo Scrap](https://thunderstore.io/c/lethal-company/p/lvnqa/GojoScrap/)
+- [Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/)
+- [Cruiser Phonk Edition](https://thunderstore.io/c/lethal-company/p/rkadery/CruiserPhonkEdition/)
+- [Lethal Presents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/) (doesn't work?)
+- [Meme Soundboard](https://thunderstore.io/c/lethal-company/p/Flof/MemeSoundboard/) (bugs out)
+- [Suit Saver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) (exists in General Improvements)
+
 ## [3.1.3] - 2025-02-24
 
-## Added
+### Added
 
 - [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/)
 - [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/)
 - [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
 - [Telepathic Object](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/TelepathicObject/)
 
-## Updated
+### Updated
 
-- [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/) 0.2.21 -> 0.2.22
-- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) 1.9.1 -> 1.9.3
-- [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) 2.3.1 -> 2.3.2
-- [Immersive Scrap](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ImmersiveScrap/) 1.4.1 -> 1.4.2
-- [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) 2.2.14 -> 2.3.1
+- [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/) `0.2.21` -> `0.2.22`
+- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.1` -> `1.9.3`
+- [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.1` -> `2.3.2`
+- [Immersive Scrap](https://thunderstore.io/c/lethal-company/p/XuXiaolan/ImmersiveScrap/) `1.4.1` -> `1.4.2`
+- [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `2.2.14` -> `2.3.1`
 
-## Removed
+### Removed
 
 - [Groan Tube](https://thunderstore.io/c/lethal-company/p/Kittenji/Groan_Tube_Scrap/)
 - [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
@@ -44,9 +127,9 @@
 
 ### Updated
 
-- [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) 1.4.5 -> 1.5.1
-- [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) 2.0.43 -> 2.0.44
-- [Mask Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/) 1.2.1 -> 1.2.2
+- [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) `1.4.5` -> `1.5.1`
+- [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.43` -> `2.0.44`
+- [Mask Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/) `1.2.1` -> `1.2.2`
 
 ### Removed
 
@@ -63,11 +146,11 @@
 
 ### Updated
 
-- [ChillaxScraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) 1.5.6 -> 1.5.7
+- [ChillaxScraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) `1.5.6` -> `1.5.7`
 
 ## [3.1.0] - 2025-02-22
 
-**Modpack is now public!**
+#### Modpack is now public!
 
 ### Added
 
@@ -92,11 +175,11 @@
 
 ### Updated
 
-- [Mirasuits](https://thunderstore.io/c/lethal-company/p/Mirayah/Mirasuits/) 1.3.1 -> 1.4.1
-- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) 1.18.1 -> 1.18.2
-- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) 1.4.7 -> 1.4.8
-- [LethalCompanyInputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) 0.7.7 -> 0.7.10
-- [Lethal Level Loader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) 1.4.10 -> 1.3.11
+- [Mirasuits](https://thunderstore.io/c/lethal-company/p/Mirayah/Mirasuits/) `1.3.1` -> `1.4.1`
+- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) `1.18.1` -> `1.18.2`
+- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) `1.4.7` -> `1.4.8`
+- [LethalCompanyInputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.7.7` -> `0.7.10`
+- [Lethal Level Loader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/) `1.4.10` -> `1.3.11`
 
 ### Removed
 
