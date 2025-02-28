@@ -1,7 +1,7 @@
 {
   "name": "AurelionPack",
   "version_number": "3.2.0",
-  "website_url": "https://fenek.net",
+  "website_url": "https://steamcommunity.com/id/paxanddos/",
   "description": "Medium rare modpack",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",

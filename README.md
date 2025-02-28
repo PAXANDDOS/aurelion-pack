@@ -1,8 +1,8 @@
 #### See [changelog](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) for detailed information about changes.
 
-Our modpack with decent amount of mods. Preconfigured with optimal settings, keeping the horror vibe of the game.  
-Main goal of this pack is to be as performant as possible, because my friends ain't got a beefy PC.  
-Not designed to be used with other modpacks, but you can try.
+Our mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.  
+The main goal of this pack is to be as performant as possible because my friends ain't got a beefy PC.  
+It's not designed to be used with other modpacks, but you can try.
 
 ## Installation
 
@@ -12,7 +12,7 @@ Not designed to be used with other modpacks, but you can try.
 
 ## Updating BepInEx
 
-It is adviced to do so for potential performance improvements and bug fixes. Some plugins target a version of BepInEx higher than it is provided by Lethal Company Thunderstore page.
+It is advised to do so for potential performance improvements and bug fixes. Some plugins target a version of BepInEx higher than it is provided by the Lethal Company Thunderstore page.
 Here's how to update it:
 
 1. Open your mod manager and navigate to `Settings` and click `Browse profile folder`. Your profile folder will open in your file explorer. Leave it open.
@@ -25,7 +25,9 @@ Here's how to update it:
 
 You can add the following launch options for potential performance improvements:
 
-```-nolog -no-stereo-rendering -screen-quality Fastest -force-d3d11-no-singlethreaded```
+```
+-nolog -no-stereo-rendering -screen-quality Fastest -force-d3d11-no-singlethreaded
+```
 
 To set launch options, open your mod manager, navigate to `Settings`, go to the `Debugging` tab, click `Set launch parameters` and paste the launch options above. 
 
@@ -159,16 +161,16 @@ In simple words, follow the [changelog](https://thunderstore.io/c/lethal-company
 
 ## Debugging
 
-BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/)  of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
+BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
 
 - `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `r2modmanPlus-local` or `Thunderstore Mod Manager` depending on your mod manager.
 - `{profile}` is the name of the profile you are using. For example, `Default`.
 
 Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.
 
-It's also suggested you keep all mods under the mod manager up to date regardless of modpack support.
-
 ## Credits
 
 I am not associated with any of the mods listed above.  
-Name of the modpack has nothing to do with Asol.
+The name of the modpack has nothing to do with Asol.
+
+![](https://i.imgur.com/HBREPZW.png)
