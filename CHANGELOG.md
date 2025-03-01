@@ -1,3 +1,14 @@
+## [3.2.1] - 2025-03-01
+
+### Added
+
+- [Suit Saver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
+
+### Updated
+
+- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.7` -> `1.9.8`
+- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) `1.6.2` -> `1.6.3`
+
 ## [3.2.0] - 2025-02-28
 
 Due to performance reasons we're removing models, quite sad but I'll see if it helps the situation (my friends literally play in 20fps). Adding cosmetics instead.
@@ -57,7 +68,7 @@ Due to performance reasons we're removing models, quite sad but I'll see if it h
 
 - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `3.12.1` -> `3.12.2`
 - [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.3` -> `1.9.7`
-- [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/) `2.5.5 -> 2.5.7`
+- [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/) `2.5.5` -> `2.5.7`
 - [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/) `2.0.11` -> `2.1.0`
 - [JLL](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/) `1.9.1` -> `1.9.2`
 - [Atlantica](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Atlantica/) `4.0.1` -> `4.1.2`

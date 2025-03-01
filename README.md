@@ -39,9 +39,9 @@ To set launch options, open your mod manager, navigate to `Settings`, go to the 
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 89  
-**Total mods after installation**: 138  
-**Profile size after installation**: 2.44 GB
+**Total mods**: 90  
+**Total mods after installation**: 139  
+**Profile size after installation**: 2.43 GB
 
 ### Gameplay (13)
 
@@ -135,7 +135,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
 - [Terbium](https://thunderstore.io/c/lethal-company/p/loaforc/Terbium/)
 
-### Misc (15)
+### Misc (16)
 
 - [Always Hear Active Walkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
 - [Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/)
@@ -148,6 +148,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
 - [Posters of Cats and More](https://thunderstore.io/c/lethal-company/p/skelobite/Posters_of_Cats_and_More/)
 - [Sell From Terminal](https://thunderstore.io/c/lethal-company/p/stormytuna/SellFromTerminal/)
+- [Suit Saver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/)
 - [Suits Terminal](https://thunderstore.io/c/lethal-company/p/darmuh/suitsTerminal/)
 - [Terminal Formatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
 - [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
