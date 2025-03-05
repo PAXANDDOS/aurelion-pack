@@ -156,13 +156,13 @@ Here's an actual modlist for this pack without tons of dependency mods.
 
 ## Updating the modpack
 
-I can add and remove mods as this modpack evolves but, unfortunately, updating the modpack isn't enough to follow all dependency changes, so you can have redundant mods in your list. For example, update [3.2.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) introduced a lot of changes and without re-installing the modpack you would have dozens of old mods dangling around.
+I can add and remove mods as this modpack evolves but, unfortunately, updating the modpack isn't enough to follow all dependency changes, so you can have redundant mods in your list. For example, update [3.2.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.2.0%5D%20-%202025-02-28) introduced a lot of changes and without re-installing the modpack you would have dozens of old mods dangling around.
 
 In simple words, follow the [changelog](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) and if there was a massive update it's better to re-install the modpack on a clean profile, otherwise just remove the old mods from your list.
 
 ## Debugging
 
-BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
+BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.1.0%5D%20-%202025-02-22) of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
 
 - `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `r2modmanPlus-local` or `Thunderstore Mod Manager` depending on your mod manager.
 - `{profile}` is the name of the profile you are using. For example, `Default`.

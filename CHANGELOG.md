@@ -1,3 +1,84 @@
+## [3.3.0] - 2025-03-
+
+Another big update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.  
+I've also added a huge load of fix/performance mods, as well as config changes.
+
+## Added
+
+- [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
+- [Lethal Elements Beta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/)
+- [Problematic Pilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/)
+- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) (host)
+- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
+- [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
+- [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
+- [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
+- [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
+- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/)
+- [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
+- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
+- [Uni Task](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
+- [Lethal Progression (Patch Fix)](https://thunderstore.io/c/lethal-company/p/Chibranche/LethalProgression_PatchFix_keepProgress/) replaced Lethal Progression
+
+## Changed
+
+- **Huntdown**:
+  - disabled Bug Mafia mission
+  - disabled Thumper mission
+  - enabled Good Boy mission
+  - enabled Infestation mission
+  - enabled Last Months Interns mission
+  - enabled Last Months Interns mission
+- **Less Logs**:
+  - disabled "warning" log level for Scarlet Mansion
+  - disabled "warning" log level for Little Company
+  - disabled "warning" log level for Biodiversity
+  - disabled "warning" log level for Weather Registry
+  - disabled "warning" log level for Buttery Fixes
+  - disabled "warning" log level for Lethal Level Loader
+  - disabled "warning" log level for Mattys Fixes
+  - disabled "warning" log level for Additional Networking
+  - disabled "warning" log level for Loadstone
+  - disabled "warning" log level for Dungeon Generation Plus
+  - disabled "warning" log level for Remnants
+  - disabled "warning" log level for Reserved Item Slot Core
+  - disabled "warning" log level for Solids Library
+  - disabled "warning" log level for Too Many Emotes Scrap
+  - disabled "warning" log level for MoreHead
+  - disabled "warning" log level for Terminal Formatter
+  - disabled "warning" log level for Lethal Fixes
+  - disabled "error" log level for Wesleys Interior Shenanigans
+- **Problematic Pilotry**: reduced landing ship probability (100% -> 80%)
+- **Ghost Codes**: disabled extensive logging
+- **JLL**: reduced logging (User -> ImportantOnly)
+- **Buyable Shotgun Plus**: reduced shotgun price to 300
+- **Weather Registry**: disabled debug logging
+- **Async Loggers**: reduced sqlite max size (100MB -> 50MB)
+
+## Updated
+
+- [Surfaced](https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/) `1.5.2` -> `1.5.3`
+- [Chillax Scrap](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) `1.5.7` -> `1.5.8`
+- [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.2` -> `2.3.3`
+- [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/) `0.5.0` -> `0.6.0`
+- [loaforcs Sound API](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) `2.0.4` -> `2.0.5`
+- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) `1.6.3` -> `1.6.4`
+- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/) `1.6.3` -> `1.6.4`
+
+## Removed
+
+- [Dead And Bored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/)
+- [Lethal Rich Presence](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresenceExperimental/)
+- [Remove Interior Fog](https://thunderstore.io/c/lethal-company/p/Zehs/RemoveInteriorFog/)
+- [SCP 106](https://thunderstore.io/c/lethal-company/p/Dackie/SCP106/)
+- [Telepathic Object](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/TelepathicObject/)
+- [LethalProgression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/)
+- [Lunxaras Menu Theme](https://thunderstore.io/c/lethal-company/p/Lunxara/Lunxaras_Menu_Theme/) (provided custom one within modpack)
+- [Dark Mist](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/) (main reason for host (=>clients) lags)
+- [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/) (huge log clutter in certain conditions)
+- [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/) (oh my god it was the main reason of low fps and full darkness)
+- [Terbium](https://thunderstore.io/c/lethal-company/p/loaforc/Terbium/) (functions presumably coded in LethalPerformance and/or Loadstone)
+
 ## [3.2.1] - 2025-03-01
 
 ### Added
@@ -170,6 +251,7 @@ Due to performance reasons we're removing models, quite sad but I'll see if it h
 - [Elads HUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)
 - [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
+- [Surfaced](https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/)
 - [Starlancer Moons](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/)
 - [Starlancer Warehouse](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerWarehouse/)
 - [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/) replaced LethalEscape
