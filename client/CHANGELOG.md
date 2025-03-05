@@ -1,23 +1,25 @@
 ## [3.3.0] - 2025-03-
 
 Another big update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.  
-I've also added a huge load of fix/performance mods, as well as config changes.
+I've also added a huge load of fix/performance mods, as well as config changes. Moved host-only mods to a separate manifest.
 
 ## Added
 
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
 - [Lethal Elements Beta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/)
 - [Problematic Pilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/)
-- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) (host)
-- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
 - [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
+- [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
+- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
+- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
+- [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
 - [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
-- [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
-- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/)
-- [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
-- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
 - [Uni Task](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
+- [Hazards Outside](https://thunderstore.io/c/lethal-company/p/snake_tech/HazardsOutside/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
+- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
+- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
+- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Lethal Progression (Patch Fix)](https://thunderstore.io/c/lethal-company/p/Chibranche/LethalProgression_PatchFix_keepProgress/) replaced Lethal Progression
 
 ## Changed
@@ -54,6 +56,7 @@ I've also added a huge load of fix/performance mods, as well as config changes.
 - **Buyable Shotgun Plus**: reduced shotgun price to 300
 - **Weather Registry**: disabled debug logging
 - **Async Loggers**: reduced sqlite max size (100MB -> 50MB)
+- **Ship Windows**: enabled window shutter
 
 ## Updated
 
@@ -73,6 +76,10 @@ I've also added a huge load of fix/performance mods, as well as config changes.
 - [SCP 106](https://thunderstore.io/c/lethal-company/p/Dackie/SCP106/)
 - [Telepathic Object](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/TelepathicObject/)
 - [LethalProgression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/)
+- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
+- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
+- [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
+- [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Lunxaras Menu Theme](https://thunderstore.io/c/lethal-company/p/Lunxara/Lunxaras_Menu_Theme/) (provided custom one within modpack)
 - [Dark Mist](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/) (main reason for host (=>clients) lags)
 - [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/) (huge log clutter in certain conditions)

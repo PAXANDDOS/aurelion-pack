@@ -1,12 +1,16 @@
 #### See [changelog](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) for detailed information about changes.
 
-Our mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.  
-The main goal of this pack is to be as performant as possible because my friends ain't got a beefy PC.  
-It's not designed to be used with other modpacks, but you can try.
+This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.  
+The main goal is to be as performant as possible because my friends got potatoes for a PC.  
+
+### Host must install an additional modpack with host-only mods
+
+[![image](https://i.imgur.com/VjaXW59.png)](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/)
+<sub><sup>Click on the image to install Host Pack. It is not included by default so it can be easier on clients with lower-end hardware. Host can install it on demand.</sub></sup>
 
 ## Installation
 
-1. Use [r2modman](https://r2modman.com/download/) (recommended) or [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager).
+1. Use [r2modman](https://r2modman.com/download/) (recommended) or other manager.
 2. Download and install the mod using the mod manager.
 3. (Optional, but recommended) [Update BepInEx](#updating-bepinex) to the latest version.
 
@@ -39,39 +43,39 @@ To set launch options, open your mod manager, navigate to `Settings`, go to the 
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 90  
-**Total mods after installation**: 139  
-**Profile size after installation**: 2.43 GB
+**Total mods**: 88 <sub><sup>(95 for host)</sub></sup>  
+**Total mods after installation**: ???  
+**Profile size after installation**: ???
 
-### Gameplay (13)
+### Gameplay (15)
 
-- [Dead And Bored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/)
 - [Facility Meltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
 - [Ghost Codes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
-- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/)
+- [Hazards Outside](https://thunderstore.io/c/lethal-company/p/snake_tech/HazardsOutside/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
 - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
-- [Lethal Progression](https://thunderstore.io/c/lethal-company/p/Stoneman/LethalProgression/)
+- [Lethal Elements Beta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/)
+- [Lethal Progression](https://thunderstore.io/c/lethal-company/p/Chibranche/LethalProgression_PatchFix_keepProgress/)
 - [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+- [Problematic Pilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/)
 - [Push Company](https://thunderstore.io/c/lethal-company/p/Midge/PushCompany/)
-- [Remnants](https://thunderstore.io/c/lethal-company/p/KawaiiBone/Remnants/)
 - [Reserved Flashlight Slot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
 - [Reserved Key Slot](https://thunderstore.io/c/lethal-company/p/RogueCodes/ReservedKeySlot/)
 - [Reserved Walkie Slot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
+- [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/)
 
-### NPCs/Enemies (12)
+### NPCs/Enemies (10)
 
 - [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/)
-- [Dark Mist](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/)
 - [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
 - [Lethal Playtime](https://thunderstore.io/c/lethal-company/p/Nuclear_Fox/LethalPlaytime/)
+- [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
 - [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/)
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 - [Nightmare Foxy](https://thunderstore.io/c/lethal-company/p/TheWeavers/NightmareFoxy/)
-- [SCP-106](https://thunderstore.io/c/lethal-company/p/Dackie/SCP106/)
 - [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
 - [Surfaced](https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/)
-- [Telepathic Object](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/TelepathicObject/)
 - [The Thing](https://thunderstore.io/c/lethal-company/p/Wexop/TheThing/)
 
 ### Moons/Interiors (9)
@@ -86,7 +90,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Starlancer Moons](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/)
 - [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
 
-### Items/Scraps (13)
+### Items/Scraps (14)
 
 - [Buyable Shotgun Plus](https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/)
 - [Chillax Scrap](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/)
@@ -99,6 +103,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Monster Plushies](https://thunderstore.io/c/lethal-company/p/Scintesto/Monster_Plushies/)
 - [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
 - [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/)
+- [Remnants](https://thunderstore.io/c/lethal-company/p/KawaiiBone/Remnants/)
 - [Too Many Emotes Scrap](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotesScrap/)
 - [Whiteboard](https://thunderstore.io/c/lethal-company/p/Zehs/Whiteboard/)
 
@@ -114,35 +119,19 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Simple Hats](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
 - [Ukrainian Core Suits](https://thunderstore.io/c/lethal-company/p/DarkMorosh/Ukrainian_Core_Suits/)
 
-### Performance/Utility (18)
-
-- [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
-- [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
-- [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
-- [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)
-- [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
-- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
-- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
-- [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
-- [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
-- [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
-- [Lethal Rich Presence](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresenceExperimental/)
-- [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
-- [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
-- [Remove Interior Fog](https://thunderstore.io/c/lethal-company/p/Zehs/RemoveInteriorFog/)
-- [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
-- [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/)
-- [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
-- [Terbium](https://thunderstore.io/c/lethal-company/p/loaforc/Terbium/)
-
-### Misc (16)
+### Misc (21)
 
 - [Always Hear Active Walkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+- [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
 - [Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/)
 - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
-- [Diversity](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)
+- [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)
+- [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+- [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [Lethal Things](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)
-- [Lunxaras Menu Theme](https://thunderstore.io/c/lethal-company/p/Lunxara/Lunxaras_Menu_Theme/)
+- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
 - [More Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
 - [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
 - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
@@ -153,6 +142,26 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Terminal Formatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
 - [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
 - [Yippee](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+
+### Performance (17)
+
+- [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
+- [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
+- [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
+- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
+- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
+- [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
+- [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
+- [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
+- [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
+- [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
+- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
+- [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
+- [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
+- [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
+- [Uni Task](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
 
 ## Updating the modpack
 
@@ -169,9 +178,13 @@ BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/let
 
 Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.
 
+In addition, for full information inside the logs, disable `LessLogs` mod in your manager. This mod is preconfigured to mute all the annoying logs, which can be useful for debugging.
+
+If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-22) which boosted performance.
+
 ## Credits
 
 I am not associated with any of the mods listed above.  
-The name of the modpack has nothing to do with Asol.
+The name of the modpack has nothing to do with Asol. Or Smolder.
 
 ![](https://i.imgur.com/HBREPZW.png)
