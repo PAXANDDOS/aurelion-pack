@@ -1,7 +1,8 @@
-## [3.3.0] - 2025-03-
+## [3.3.0] - 2025-03-06
 
-Another big update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.  
-I've also added a huge load of fix/performance mods, as well as config changes. Moved host-only mods to a separate manifest.
+Another big update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.
+
+I've also added a huge load of fix/performance mods, as well as config changes. Moved host-only mods and performance mods to separate manifests.
 
 ## Added
 
@@ -50,13 +51,15 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
   - disabled "warning" log level for Terminal Formatter
   - disabled "warning" log level for Lethal Fixes
   - disabled "error" log level for Wesleys Interior Shenanigans
-- **Problematic Pilotry**: reduced landing ship probability (100% -> 80%)
+- **Problematic Pilotry**: 
+  - reduced landing ship probability (100% -> 80%)
+  - reduced dropship probability (100% -> 70%)
 - **Ghost Codes**: disabled extensive logging
 - **JLL**: reduced logging (User -> ImportantOnly)
-- **Buyable Shotgun Plus**: reduced shotgun price to 300
+- **Buyable Shotgun Plus**: reduced shotgun price (666 -> 300)
 - **Weather Registry**: disabled debug logging
-- **Async Loggers**: reduced sqlite max size (100MB -> 50MB)
 - **Ship Windows**: enabled window shutter
+- **Async Loggers**: reduced sqlite max size (100MB -> 50MB)
 
 ## Updated
 

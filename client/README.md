@@ -13,13 +13,14 @@ The main goal is to be as performant as possible because my friends got potatoes
 1. Use [r2modman](https://r2modman.com/download/) (recommended) or other manager.
 2. Download and install the mod using the mod manager.
 3. (Optional, but recommended) [Update BepInEx](#updating-bepinex) to the latest version.
+4. If you plan on hosting, install [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/).
 
 ## Updating BepInEx
 
 It is advised to do so for potential performance improvements and bug fixes. Some plugins target a version of BepInEx higher than it is provided by the Lethal Company Thunderstore page.
 Here's how to update it:
 
-1. Open your mod manager and navigate to `Settings` and click `Browse profile folder`. Your profile folder will open in your file explorer. Leave it open.
+1. Open your mod manager and navigate to `Settings` and click `Browse profile folder`. Your profile folder will open in your file explorer. Leave it open for now.
 2. [Download BepInEx 5.4.23.2](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip) or [open releases page](https://github.com/BepInEx/BepInEx/releases) and download the latest 5.x version.
 3. Extract the contents of the downloaded archive to your profile folder, overwriting existing files.
 
@@ -161,7 +162,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
 - [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
-- [Uni Task](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
+- [UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
 
 ## Updating the modpack
 
@@ -180,7 +181,7 @@ Or you can enable the console by setting `Enabled` to `true` under `Logging.Cons
 
 In addition, for full information inside the logs, disable `LessLogs` mod in your manager. This mod is preconfigured to mute all the annoying logs, which can be useful for debugging.
 
-If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-22) which boosted performance.
+If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-06) which boosted performance.
 
 ## Credits
 
