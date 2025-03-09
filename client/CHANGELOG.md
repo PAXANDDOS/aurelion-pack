@@ -1,4 +1,4 @@
-## [3.3.0] - 2025-03-06
+## [3.3.0] - 2025-03-09
 
 Another big update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.
 
@@ -6,9 +6,16 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 
 ## Added
 
+- [Big Eyes](https://thunderstore.io/c/lethal-company/p/Wexop/BigEyes/)
+- [Country Road Creature](https://thunderstore.io/c/lethal-company/p/Wexop/CountryRoadCreature/)
+- [Oiia Cat](https://thunderstore.io/c/lethal-company/p/Luxciano32/OiiaCat/)
+- [SCP-4666](https://thunderstore.io/c/lethal-company/p/ProjectSCP/SCP4666/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
+- [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/)
 - [Lethal Elements Beta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/)
 - [Problematic Pilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/)
+- [Synthesis](https://thunderstore.io/c/lethal-company/p/luakite/Synthesis_Moon/)
+- [Vacuity](https://thunderstore.io/c/lethal-company/p/luakite/Vacuity_Moon/)
 - [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
 - [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
 - [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
@@ -51,15 +58,24 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
   - disabled "warning" log level for Terminal Formatter
   - disabled "warning" log level for Lethal Fixes
   - disabled "error" log level for Wesleys Interior Shenanigans
+- **Async Loggers**: 
+  - reduced sqlite max size (100MB -> 50MB)
+  - changed Unity log level (Warning -> Error)
 - **Problematic Pilotry**: 
   - reduced landing ship probability (100% -> 80%)
   - reduced dropship probability (100% -> 70%)
+- **MajorityVote**: 
+  - reduced vote percentage (0.5 -> 0.4)
+  - increased minumum votes needed (1 -> 2)
+- **Lethal Sponge**: 
+  - disabled fixFoliageLOD 
+  - enabled minimal logging
+- **Lethal Fixes**: 
 - **Ghost Codes**: disabled extensive logging
 - **JLL**: reduced logging (User -> ImportantOnly)
 - **Buyable Shotgun Plus**: reduced shotgun price (666 -> 300)
 - **Weather Registry**: disabled debug logging
 - **Ship Windows**: enabled window shutter
-- **Async Loggers**: reduced sqlite max size (100MB -> 50MB)
 
 ## Updated
 
@@ -70,10 +86,21 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [loaforcs Sound API](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) `2.0.4` -> `2.0.5`
 - [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) `1.6.3` -> `1.6.4`
 - [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/) `1.6.3` -> `1.6.4`
+- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.7` -> `1.9.11`
+- [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) `2.1.3` -> `2.1.4`
+- [JLL](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/) `1.9.2` -> `1.9.3`
+- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) `1.4.8` -> `1.4.9`
+- [DetourContext Dispose Fix](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) `1.0.3` -> `1.0.4`
+- [AutoHook Gen Patcher](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/) `1.0.4` -> `1.0.6`
+- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) `1.18.2` -> `1.19.0`
+- [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.44` -> `2.0.46`
+- [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.3` -> `2.3.4`
 
 ## Removed
 
 - [Dead And Bored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/)
+- [Frosty Suits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/)
+- [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/)
 - [Lethal Rich Presence](https://thunderstore.io/c/lethal-company/p/mrov/LethalRichPresenceExperimental/)
 - [Remove Interior Fog](https://thunderstore.io/c/lethal-company/p/Zehs/RemoveInteriorFog/)
 - [SCP 106](https://thunderstore.io/c/lethal-company/p/Dackie/SCP106/)

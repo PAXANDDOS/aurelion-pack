@@ -3,16 +3,16 @@
 This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.  
 The main goal is to be as performant as possible because my friends got potatoes for a PC.  
 
-### Host must install an additional modpack with host-only mods
+### !! Host must install an additional modpack with host-only mods
 
-[![image](https://i.imgur.com/VjaXW59.png)](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/)
+[![image](https://i.imgur.com/w2UGwQu.png)](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/)
 <sub><sup>Click on the image to install Host Pack. It is not included by default so it can be easier on clients with lower-end hardware. Host can install it on demand.</sub></sup>
 
 ## Installation
 
 1. Use [r2modman](https://r2modman.com/download/) (recommended) or other manager.
 2. Download and install the mod using the mod manager.
-3. (Optional, but recommended) [Update BepInEx](#updating-bepinex) to the latest version.
+3. (Optional) [Update BepInEx](#updating-bepinex) to the latest version.
 4. If you plan on hosting, install [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/).
 
 ## Updating BepInEx
@@ -44,15 +44,14 @@ To set launch options, open your mod manager, navigate to `Settings`, go to the 
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 88 <sub><sup>(95 for host)</sub></sup>  
-**Total mods after installation**: ???  
+**Total mods**: 93 <sub><sup>(99 for host)</sub></sup>  
+**Total mods after installation**: 141 <sub><sup>(147 for host)</sub></sup>  
 **Profile size after installation**: ???
 
-### Gameplay (15)
+### Gameplay (14)
 
 - [Facility Meltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
 - [Ghost Codes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
-- [Hazards Outside](https://thunderstore.io/c/lethal-company/p/snake_tech/HazardsOutside/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
 - [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
 - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
 - [Lethal Elements Beta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/)
@@ -66,20 +65,23 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Reserved Walkie Slot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
 - [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/)
 
-### NPCs/Enemies (10)
+### NPCs/Enemies (13)
 
+- [Big Eyes](https://thunderstore.io/c/lethal-company/p/Wexop/BigEyes/)
 - [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/)
+- [Country Road Creature](https://thunderstore.io/c/lethal-company/p/Wexop/CountryRoadCreature/)
 - [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
 - [Lethal Playtime](https://thunderstore.io/c/lethal-company/p/Nuclear_Fox/LethalPlaytime/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
-- [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/)
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 - [Nightmare Foxy](https://thunderstore.io/c/lethal-company/p/TheWeavers/NightmareFoxy/)
+- [Oiia Cat](https://thunderstore.io/c/lethal-company/p/Luxciano32/OiiaCat/)
 - [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
+- [SCP-4666](https://thunderstore.io/c/lethal-company/p/ProjectSCP/SCP4666/)
 - [Surfaced](https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/)
 - [The Thing](https://thunderstore.io/c/lethal-company/p/Wexop/TheThing/)
 
-### Moons/Interiors (9)
+### Moons/Interiors (11)
 
 - [Atlantica](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Atlantica/)
 - [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
@@ -89,6 +91,8 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Scarlet Devil Mansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/)
 - [SCP Foundation Dungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
 - [Starlancer Moons](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/)
+- [Synthesis](https://thunderstore.io/c/lethal-company/p/luakite/Synthesis_Moon/)
+- [Vacuity](https://thunderstore.io/c/lethal-company/p/luakite/Vacuity_Moon/)
 - [Wesleys Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
 
 ### Items/Scraps (14)
@@ -112,7 +116,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 
 - [Devil May Company](https://thunderstore.io/c/lethal-company/p/loserlilith/DevilMayCompany/)
 - [Erics Scrap Helmet](https://thunderstore.io/c/lethal-company/p/EricsTeam/EricsScrap_Helmet/)
-- [Frosty Suits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/)
+- [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/)
 - [Fortnite Furry Girl Cosmetics](https://thunderstore.io/c/lethal-company/p/RazzyRazRaz/Fortnite_Furry_Girl_Cosmetics/)
 - [Goon Suits](https://thunderstore.io/c/lethal-company/p/ironbean/goonsuits/)
 - [More Head](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/)
@@ -150,11 +154,11 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
 - [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
 - [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
-- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
 - [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
 - [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
 - [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
 - [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
+- [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/)
 - [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
 - [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
 - [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
@@ -179,13 +183,30 @@ BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/let
 
 Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.
 
-In addition, for full information inside the logs, disable `LessLogs` mod in your manager. This mod is preconfigured to mute all the annoying logs, which can be useful for debugging.
+In addition, disable these mods in your mod manager to show more logs:
+- <u>AsyncLoggers</u> (suppresses Unity warnings)
+- <u>Less Logs</u> (suppresses logs from other mods)
 
-If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-06) which boosted performance.
+If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and using [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-06) which boosted performance.
+
+## Issues
+
+Currently as of [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-06) the only issue is Unity spawning trillions of warnings for literally everything, like: 
+- `Can not play a disabled audio source` 
+- `TerminalNode must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalNode.` 
+- `TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.`
+- ` Unable to add the requested character to font asset [3270-REGULAR SDF]'s atlas texture. Please make the texture [3270-REGULAR SDF Atlas] readable.`
+- `NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?`
+- `BoxColliders does not support negative scale or size.`
+- `Some metrics in the collection went over the configured values limit. Some values were ignored.`
+- `PlayOneShot was called with a null AudioClip.`
+
+Unity throws these in various scenarios but way too often. If anyone has any idea please reach out to me!  
+For now, all these warning are suppressed by [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) so your log file remains minimal and shows only errors.
 
 ## Credits
 
 I am not associated with any of the mods listed above.  
-The name of the modpack has nothing to do with Asol. Or Smolder.
+The name of the modpack has nothing to do with Asol.
 
 ![](https://i.imgur.com/HBREPZW.png)
