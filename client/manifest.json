@@ -1,6 +1,6 @@
 {
   "name": "AurelionPack",
-  "version_number": "3.3.0",
+  "version_number": "4.0.0",
   "website_url": "https://steamcommunity.com/id/paxanddos/",
   "description": "[~90 mods] All-in-one modpack for fun times",
   "dependencies": [
@@ -52,7 +52,7 @@
     "Evaisa-HookGenPatcher-0.0.5",
     "Evaisa-LethalThings-0.10.7",
     "Evaisa-FixPluginTypesSerialization-1.1.2",
-    "FlipMods-ReservedItemSlotCore-2.0.46",
+    "FlipMods-ReservedItemSlotCore-2.0.47",
     "Lordfirespeed-OdinSerializer-2022.11.9",
     "xilophor-StaticNetcodeLib-1.1.1",
     "EliteMasterEric-Coroner-2.2.0",
@@ -123,10 +123,10 @@
     "Chibranche-LethalProgression_PatchFix_keepProgress-1.7.4",
     "Dwarggo-Fashion_Company-1.3.1",
     "Wexop-CountryRoadCreature-1.0.7",
-    "Wexop-BigEyes-1.3.6",
     "Luxciano32-OiiaCat-1.3.0",
     "ProjectSCP-SCP4666-1.0.1",
     "luakite-Vacuity_Moon-1.0.5",
-    "luakite-Synthesis_Moon-1.1.3"
+    "luakite-Synthesis_Moon-1.1.3",
+    "Kittenji-Football-1.1.11"
   ]
 }

@@ -1,13 +1,13 @@
-## [3.3.0] - 2025-03-09
+## [4.0.0] - 2025-03-10
 
-Another big update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.
+Major update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.
 
 I've also added a huge load of fix/performance mods, as well as config changes. Moved host-only mods and performance mods to separate manifests.
 
 ## Added
 
-- [Big Eyes](https://thunderstore.io/c/lethal-company/p/Wexop/BigEyes/)
 - [Country Road Creature](https://thunderstore.io/c/lethal-company/p/Wexop/CountryRoadCreature/)
+- [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
 - [Oiia Cat](https://thunderstore.io/c/lethal-company/p/Luxciano32/OiiaCat/)
 - [SCP-4666](https://thunderstore.io/c/lethal-company/p/ProjectSCP/SCP4666/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
@@ -19,8 +19,8 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
 - [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
 - [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
-- [Cleaner Logs](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CleanerLogs/)
 - [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
+- [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/)
 - [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
 - [Uni Task](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
@@ -40,23 +40,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
   - enabled Last Months Interns mission
   - enabled Last Months Interns mission
 - **Less Logs**:
-  - disabled "warning" log level for Scarlet Mansion
-  - disabled "warning" log level for Little Company
-  - disabled "warning" log level for Biodiversity
-  - disabled "warning" log level for Weather Registry
-  - disabled "warning" log level for Buttery Fixes
-  - disabled "warning" log level for Lethal Level Loader
-  - disabled "warning" log level for Mattys Fixes
-  - disabled "warning" log level for Additional Networking
-  - disabled "warning" log level for Loadstone
-  - disabled "warning" log level for Dungeon Generation Plus
-  - disabled "warning" log level for Remnants
-  - disabled "warning" log level for Reserved Item Slot Core
-  - disabled "warning" log level for Solids Library
-  - disabled "warning" log level for Too Many Emotes Scrap
-  - disabled "warning" log level for MoreHead
-  - disabled "warning" log level for Terminal Formatter
-  - disabled "warning" log level for Lethal Fixes
+  - disabled "warning" log level for Scarlet Mansion, Little Company, Biodiversity, Weather Registry, Buttery Fixes, Lethal Level Loader, Mattys Fixes, Additional Networking, Loadstone, Dungeon Generation Plus, Remnants, Reserved Item Slot Core, Solids Library, Too Many Emotes Scrap, MoreHead, Terminal Formatter, Lethal Fixes
   - disabled "error" log level for Wesleys Interior Shenanigans
 - **Async Loggers**: 
   - reduced sqlite max size (100MB -> 50MB)
@@ -70,6 +54,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - **Lethal Sponge**: 
   - disabled fixFoliageLOD 
   - enabled minimal logging
+  - increased fog budget (0.15 -> 0.16)
 - **Lethal Fixes**: 
 - **Ghost Codes**: disabled extensive logging
 - **JLL**: reduced logging (User -> ImportantOnly)
@@ -93,7 +78,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [DetourContext Dispose Fix](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) `1.0.3` -> `1.0.4`
 - [AutoHook Gen Patcher](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/) `1.0.4` -> `1.0.6`
 - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) `1.18.2` -> `1.19.0`
-- [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.44` -> `2.0.46`
+- [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.44` -> `2.0.47`
 - [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.3` -> `2.3.4`
 
 ## Removed

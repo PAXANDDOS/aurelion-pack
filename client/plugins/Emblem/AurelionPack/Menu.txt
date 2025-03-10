@@ -1,0 +1,128 @@
+AurelionPack v4.0.0 by PAXANDDOS
+
+This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.
+The main goal is to be as performant as possible by including best-in-class performance mods, most of the mods are thoughtfully configured to work efficiently.
+
+Components:
+- AurelionPack Performance
+- AurelionPack Host (host-only)
+
+### Gameplay
+
+- Facility Meltdown
+- Ghost Codes
+- Huntdown
+- Lategame Upgrades
+- Lethal Elements Beta
+- Lethal Progression
+- Malfunctions
+- Mirage
+- Problematic Pilotry
+- Push Company
+- Reserved Flashlight Slot
+- Reserved Key Slot
+- Reserved Walkie Slot
+- Starlancer Enemy Escape
+
+### NPCs/Enemies
+
+- Biodiversity
+- Country Road Creature
+- Faceless Stalker
+- Football
+- Lethal Playtime
+- Locker
+- Mimics
+- Nightmare Foxy
+- Oiia Cat
+- Scopophobia
+- SCP-4666
+- Surfaced
+- The Thing
+
+### Moons/Interiors
+
+- Atlantica
+- Backrooms
+- Casino
+- Generic Interiors
+- Generic Moons
+- Scarlet Devil Mansion
+- SCP Foundation Dungeon
+- Starlancer Moons
+- Synthesis
+- Vacuity
+- Wesleys Interiors
+
+### Items/Scraps
+
+- Buyable Shotgun Plus
+- Chillax Scrap
+- Emergency Dice
+- Immersive Scrap
+- Lethal Snap
+- Little Company
+- Maxwell
+- Minecraft Scraps
+- Monster Plushies
+- Needy Cats
+- Premium Scraps
+- Remnants
+- Too Many Emotes Scrap
+- Whiteboard
+
+### Suits/Cosmetics
+
+- Devil May Company
+- Erics Scrap Helmet
+- Fashion Company
+- Fortnite Furry Girl Cosmetics
+- Goon Suits
+- More Head
+- Nikkis Cosmetic Kingdom
+- Simple Hats
+- Ukrainian Core Suits
+
+### Misc
+
+- Always Hear Active Walkies
+- Better EXP
+- Celestial Tint
+- Coroner
+- EladsHUD
+- FairAI
+- Faster Item Dropship
+- General Improvements
+- Lethal Resonance
+- Lethal Things
+- Majority Vote
+- More Company
+- More Suits
+- OpenBodyCams
+- Posters of Cats and More
+- Sell From Terminal
+- Suit Saver
+- Suits Terminal
+- Terminal Formatter
+- Too Many Emotes
+- Yippee
+
+### Performance
+
+- Additional Networking
+- AsyncLoggers
+- BepInEx Faster Load AssetBundles Patcher
+- Buttery Fixes
+- Cull Factory
+- Less Logs
+- Lethal Fixes
+- Lethal Performance
+- Lethal Sponge
+- Loadstone
+- Lobby Control
+- Lost Enemy Fix
+- Matty Fixes
+- Pathfinding Lag Fix Beta
+- Reverb Trigger Fix
+- Starlancer AI Fix
+- UniTask

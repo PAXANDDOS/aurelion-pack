@@ -67,10 +67,10 @@ Here's an actual modlist for this pack without tons of dependency mods.
 
 ### NPCs/Enemies (13)
 
-- [Big Eyes](https://thunderstore.io/c/lethal-company/p/Wexop/BigEyes/)
 - [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/)
 - [Country Road Creature](https://thunderstore.io/c/lethal-company/p/Wexop/CountryRoadCreature/)
 - [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
+- [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
 - [Lethal Playtime](https://thunderstore.io/c/lethal-company/p/Nuclear_Fox/LethalPlaytime/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
@@ -187,15 +187,15 @@ In addition, disable these mods in your mod manager to show more logs:
 - <u>AsyncLoggers</u> (suppresses Unity warnings)
 - <u>Less Logs</u> (suppresses logs from other mods)
 
-If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and using [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-06) which boosted performance.
+If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and using [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) which boosted performance.
 
 ## Issues
 
-Currently as of [3.3.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.3.0%5D%20-%202025-03-06) the only issue is Unity spawning trillions of warnings for literally everything, like: 
+Currently as of [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) the only issue is Unity spawning trillions of warnings for literally everything, like: 
 - `Can not play a disabled audio source` 
 - `TerminalNode must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalNode.` 
 - `TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.`
-- ` Unable to add the requested character to font asset [3270-REGULAR SDF]'s atlas texture. Please make the texture [3270-REGULAR SDF Atlas] readable.`
+- `Unable to add the requested character to font asset [3270-REGULAR SDF]'s atlas texture. Please make the texture [3270-REGULAR SDF Atlas] readable.`
 - `NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?`
 - `BoxColliders does not support negative scale or size.`
 - `Some metrics in the collection went over the configured values limit. Some values were ignored.`
