@@ -45,14 +45,14 @@ To set launch options, open your mod manager, navigate to `Settings`, go to the 
 Here's an actual modlist for this pack without tons of dependency mods.
 
 **Total mods**: 93 <sub><sup>(99 for host)</sub></sup>  
-**Total mods after installation**: 141 <sub><sup>(147 for host)</sub></sup>  
-**Profile size after installation**: ???
+**Total mods after installation**: 144 <sub><sup>(151 for host)</sub></sup>  
+**Profile size after installation**: 2.42 GB
 
 ### Gameplay (14)
 
 - [Facility Meltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
 - [Ghost Codes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
-- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
 - [Lethal Elements Beta](https://thunderstore.io/c/lethal-company/p/v0xx/LethalElementsBeta/)
 - [Lethal Progression](https://thunderstore.io/c/lethal-company/p/Chibranche/LethalProgression_PatchFix_keepProgress/)
@@ -131,12 +131,12 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/)
 - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
 - [EladsHUD](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)
-- [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
-- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
+- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
 - [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [Lethal Things](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)
-- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [More Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
 - [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
 - [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
@@ -160,8 +160,8 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
 - [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/)
 - [Loadstone](https://thunderstore.io/c/lethal-company/p/AdiBTW/Loadstone/)
-- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
-- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) <u>(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))</u>
+- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
+- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
 - [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
@@ -178,18 +178,18 @@ In simple words, follow the [changelog](https://thunderstore.io/c/lethal-company
 
 BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.1.0%5D%20-%202025-02-22) of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
 
-- `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `r2modmanPlus-local` or `Thunderstore Mod Manager` depending on your mod manager.
+- `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `r2modmanPlus-local` or else, depending on your mod manager.
 - `{profile}` is the name of the profile you are using. For example, `Default`.
 
 Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.
 
 In addition, disable these mods in your mod manager to show more logs:
-- <u>AsyncLoggers</u> (suppresses Unity warnings)
-- <u>Less Logs</u> (suppresses logs from other mods)
+- **AsyncLoggers** (suppresses Unity warnings)
+- **Less Logs** (suppresses logs from other mods)
 
 If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and using [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) which boosted performance.
 
-## Issues
+## Known issues
 
 Currently as of [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) the only issue is Unity spawning trillions of warnings for literally everything, like: 
 - `Can not play a disabled audio source` 
@@ -200,6 +200,8 @@ Currently as of [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/Aur
 - `BoxColliders does not support negative scale or size.`
 - `Some metrics in the collection went over the configured values limit. Some values were ignored.`
 - `PlayOneShot was called with a null AudioClip.`
+
+In addition, there are several Unity errors tha happen from time to time, but I also feel like enemies just don't spawn anymore...
 
 Unity throws these in various scenarios but way too often. If anyone has any idea please reach out to me!  
 For now, all these warning are suppressed by [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) so your log file remains minimal and shows only errors.

@@ -1,3 +1,14 @@
+## [4.0.1] - 2025-03-10
+
+## Changed
+
+- Fixed Emblem behavior
+- Fixed couple text issues in readme/changelog
+
+## Updated
+
+- [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) `1.5.1` -> `1.5.2`
+
 ## [4.0.0] - 2025-03-10
 
 Major update yippee! Finally got myself to debug this sh*t because it's getting worse. Thanks to [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) I was able to identify all heavy stuff.
@@ -24,7 +35,6 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
 - [Uni Task](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
-- [Hazards Outside](https://thunderstore.io/c/lethal-company/p/snake_tech/HazardsOutside/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
@@ -55,7 +65,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
   - disabled fixFoliageLOD 
   - enabled minimal logging
   - increased fog budget (0.15 -> 0.16)
-- **Lethal Fixes**: 
+- **Lethal Fixes**: disabled prop shadows
 - **Ghost Codes**: disabled extensive logging
 - **JLL**: reduced logging (User -> ImportantOnly)
 - **Buyable Shotgun Plus**: reduced shotgun price (666 -> 300)
@@ -71,7 +81,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [loaforcs Sound API](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) `2.0.4` -> `2.0.5`
 - [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) `1.6.3` -> `1.6.4`
 - [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/) `1.6.3` -> `1.6.4`
-- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.7` -> `1.9.11`
+- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.8` -> `1.9.11`
 - [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) `2.1.3` -> `2.1.4`
 - [JLL](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/) `1.9.2` -> `1.9.3`
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) `1.4.8` -> `1.4.9`
@@ -94,7 +104,6 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [Huntdown](https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
-- [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/) (moved to the [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Lunxaras Menu Theme](https://thunderstore.io/c/lethal-company/p/Lunxara/Lunxaras_Menu_Theme/) (provided custom one within modpack)
 - [Dark Mist](https://thunderstore.io/c/lethal-company/p/Frack9/DarkMist/) (main reason for host (=>clients) lags)
 - [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/) (huge log clutter in certain conditions)
