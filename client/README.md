@@ -39,9 +39,9 @@ To set launch options, open your mod manager, navigate to `Settings`, go to the 
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 101
-**Total mods after installation**: 154
-**Profile size after installation**: 2.42 GB
+**Total mods**: 101  
+**Total mods after installation**: 153  
+**Profile size after installation**: 2.65 GB
 
 ### Gameplay (14)
 
@@ -144,7 +144,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
 - [Yippee](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
-### [Performance](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Performance/) (17)
+### [Performance](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Performance/) (18)
 
 - [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
 - [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)

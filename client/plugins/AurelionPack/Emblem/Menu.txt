@@ -5,7 +5,7 @@ The main goal is to be as performant as possible by including best-in-class perf
 
 Components:
 - AurelionPack Performance
-- AurelionPack Host (host-only)
+- AurelionPack Host
 
 ### Gameplay
 
@@ -31,6 +31,7 @@ Components:
 - Faceless Stalker
 - Football
 - Lethal Playtime
+- Light Eater
 - Locker
 - Mimics
 - Nightmare Foxy
@@ -114,6 +115,7 @@ Components:
 - BepInEx Faster Load AssetBundles Patcher
 - Buttery Fixes
 - Cull Factory
+- Font Update
 - Less Logs
 - Lethal Fixes
 - Lethal Performance
