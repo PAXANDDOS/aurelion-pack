@@ -3,11 +3,6 @@
 This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.  
 The main goal is to be as performant as possible because my friends got potatoes for a PC.  
 
-### !! Host must install an additional modpack with host-only mods
-
-[![image](https://i.imgur.com/w2UGwQu.png)](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/)
-<sub><sup>Click on the image to install Host Pack. It is not included by default so it can be easier on clients with lower-end hardware. Host can install it on demand.</sub></sup>
-
 ## Installation
 
 1. Use [r2modman](https://r2modman.com/download/) (recommended) or other manager.
@@ -44,8 +39,8 @@ To set launch options, open your mod manager, navigate to `Settings`, go to the 
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 93 <sub><sup>(99 for host)</sub></sup>  
-**Total mods after installation**: 144 <sub><sup>(151 for host)</sub></sup>  
+**Total mods**: 101
+**Total mods after installation**: 154
 **Profile size after installation**: 2.42 GB
 
 ### Gameplay (14)
@@ -65,13 +60,14 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Reserved Walkie Slot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
 - [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/)
 
-### NPCs/Enemies (13)
+### NPCs/Enemies (14)
 
 - [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/)
 - [Country Road Creature](https://thunderstore.io/c/lethal-company/p/Wexop/CountryRoadCreature/)
 - [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
 - [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
 - [Lethal Playtime](https://thunderstore.io/c/lethal-company/p/Nuclear_Fox/LethalPlaytime/)
+- [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 - [Nightmare Foxy](https://thunderstore.io/c/lethal-company/p/TheWeavers/NightmareFoxy/)
@@ -115,14 +111,14 @@ Here's an actual modlist for this pack without tons of dependency mods.
 ### Suits/Cosmetics (9)
 
 - [Devil May Company](https://thunderstore.io/c/lethal-company/p/loserlilith/DevilMayCompany/)
-- [Erics Scrap Helmet](https://thunderstore.io/c/lethal-company/p/EricsTeam/EricsScrap_Helmet/)
-- [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/)
+- [Escanor Model](https://thunderstore.io/c/lethal-company/p/Drunger/Escanor_Model/)
 - [Fortnite Furry Girl Cosmetics](https://thunderstore.io/c/lethal-company/p/RazzyRazRaz/Fortnite_Furry_Girl_Cosmetics/)
 - [Goon Suits](https://thunderstore.io/c/lethal-company/p/ironbean/goonsuits/)
+- [Hunk Model](https://thunderstore.io/c/lethal-company/p/Yakutare/HunkModel/)
+- [Lethal Life More Suits](https://thunderstore.io/c/lethal-company/p/TeamAlphaWolfSquadron/LethalLifeMoreSuits/)
 - [More Head](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/)
+- [Mirasuits](https://thunderstore.io/c/lethal-company/p/Mirayah/Mirasuits/)
 - [Nikkis Cosmetic Kingdom](https://thunderstore.io/c/lethal-company/p/Nikki/NikkisCosmeticKingdom/)
-- [Simple Hats](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
-- [Ukrainian Core Suits](https://thunderstore.io/c/lethal-company/p/DarkMorosh/Ukrainian_Core_Suits/)
 
 ### Misc (21)
 
@@ -148,13 +144,14 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
 - [Yippee](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
-### Performance (17)
+### [Performance](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Performance/) (17)
 
 - [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
 - [AsyncLoggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
 - [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
 - [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
 - [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
+- [Font Update](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
 - [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
 - [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
 - [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
@@ -163,7 +160,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
-- [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
+- [Pathfinding Lag Fix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
 - [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
 - [UniTask](https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/)
@@ -211,4 +208,4 @@ For now, all these warning are suppressed by [Async Loggers](https://thunderstor
 I am not associated with any of the mods listed above.  
 The name of the modpack has nothing to do with Asol.
 
-![](https://i.imgur.com/HBREPZW.png)
+![](https://i.imgur.com/6R2xiWC.png)

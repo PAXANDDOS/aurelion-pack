@@ -1,11 +1,61 @@
+## [4.1.0] - 2025-03-30
+
+Mixed together regular suits and model replacements. Testing new enemy. Also a lot of chores. Host-only pack now included by default.
+
+Might also be the last update for this pack since all of my friends are playing repo...  
+Anyway, all of the mods are stable (except for LethalElements) and you can just update the mods without relying on this pack updates.
+
+### Added
+
+- [Light Eater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/)
+- [Lethal Life More Suits](https://thunderstore.io/c/lethal-company/p/TeamAlphaWolfSquadron/LethalLifeMoreSuits/)
+- [Mirasuits](https://thunderstore.io/c/lethal-company/p/Mirayah/Mirasuits/)
+- [Hunk Model](https://thunderstore.io/c/lethal-company/p/Yakutare/HunkModel/)
+- [Escanor Model](https://thunderstore.io/c/lethal-company/p/Drunger/Escanor_Model/)
+- (performance) [Font Update](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/)
+- (performance) [Pathfinding Lag Fix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
+
+### Updated
+
+- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) `1.19.0` -> `1.21.0`
+- [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.47` -> `2.0.48`
+- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/) `1.13.0` -> `1.13.1`
+- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) `1.4.9` -> `1.4.11`
+- [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) `3.0.3` -> `3.0.5`
+- [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `2.3.1` -> `2.3.2`
+- [Lethal Lib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `0.16.2` -> `1.0.1`
+- [Mrov Lib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/) `0.2.23` -> `0.2.24`
+- [Emergency Dice Updated](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.11` -> `1.9.19`
+- [Weather Registry](https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/) `0.5.4` -> `0.5.5`
+- [Mask Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/) `1.2.2` -> `1.3.1`
+- [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/) `1.6.5` -> `1.6.6`
+- [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.4` -> `2.3.5`
+- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/) `1.6.4` -> `2.0.0`
+- (host) [Fair AI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) `1.4.3` -> `1.4.6`
+- (host) [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) `2.4.10` -> `2.5.6`
+- (performance) [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/) `2.2.1` -> `2.2.2`
+- (performance) [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) `0.6.5` -> `1.0.0`
+- (performance) [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/) `1.13.1` -> `1.13.2`
+- (performance) [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/) `1.0.0` -> `1.0.1`
+- (performance) [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) `1.0.9` -> `1.1.8`
+- (performance) [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/) `3.8.4` -> `3.9.0`
+
+### Removed
+
+- [Erics Scrap Helmet](https://thunderstore.io/c/lethal-company/p/EricsTeam/EricsScrap_Helmet/)
+- [Fashion Company](https://thunderstore.io/c/lethal-company/p/Dwarggo/Fashion_Company/)
+- [Simple Hats](https://thunderstore.io/c/lethal-company/p/fonnymunkey/SimpleHats/)
+- [Ukrainian Core Suits](https://thunderstore.io/c/lethal-company/p/DarkMorosh/Ukrainian_Core_Suits/)
+- (performance) [Pathfinding Lag Fix Beta](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix_Beta/)
+
 ## [4.0.1] - 2025-03-10
 
-## Changed
+### Changed
 
 - Fixed Emblem behavior
 - Fixed couple text issues in readme/changelog
 
-## Updated
+### Updated
 
 - [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) `1.5.1` -> `1.5.2`
 
@@ -15,7 +65,7 @@ Major update yippee! Finally got myself to debug this sh*t because it's getting 
 
 I've also added a huge load of fix/performance mods, as well as config changes. Moved host-only mods and performance mods to separate manifests.
 
-## Added
+### Added
 
 - [Country Road Creature](https://thunderstore.io/c/lethal-company/p/Wexop/CountryRoadCreature/)
 - [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
@@ -40,7 +90,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) (to [host pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))
 - [Lethal Progression (Patch Fix)](https://thunderstore.io/c/lethal-company/p/Chibranche/LethalProgression_PatchFix_keepProgress/) replaced Lethal Progression
 
-## Changed
+### Changed
 
 - **Huntdown**:
   - disabled Bug Mafia mission
@@ -72,7 +122,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - **Weather Registry**: disabled debug logging
 - **Ship Windows**: enabled window shutter
 
-## Updated
+### Updated
 
 - [Surfaced](https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/) `1.5.2` -> `1.5.3`
 - [Chillax Scrap](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) `1.5.7` -> `1.5.8`
@@ -91,7 +141,7 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - [Reserved Item Slot Core](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.44` -> `2.0.47`
 - [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.3` -> `2.3.4`
 
-## Removed
+### Removed
 
 - [Dead And Bored](https://thunderstore.io/c/lethal-company/p/Quixler/DeadAndBored/)
 - [Frosty Suits](https://thunderstore.io/c/lethal-company/p/happyfrosty/FrostySuits/)
