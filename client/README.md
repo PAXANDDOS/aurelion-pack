@@ -5,17 +5,18 @@ The main goal is to be as performant as possible because my friends got potatoes
 
 ## Installation
 
-1. Use [r2modman](https://r2modman.com/download/) (recommended) or other manager.
+1. Use [Gale](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/download/).
 2. Download and install the mod using the mod manager.
 3. (Optional) [Update BepInEx](#updating-bepinex) to the latest version.
-4. If you plan on hosting, install [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/).
 
 ## Updating BepInEx
 
 It is advised to do so for potential performance improvements and bug fixes. Some plugins target a version of BepInEx higher than it is provided by the Lethal Company Thunderstore page.
 Here's how to update it:
 
-1. Open your mod manager and navigate to `Settings` and click `Browse profile folder`. Your profile folder will open in your file explorer. Leave it open for now.
+1. Open your mod manager and open your profile folder.
+    - Gale: `File` > `Open profile folder`
+    - r2modman: `Settings` > `Browse profile folder`
 2. [Download BepInEx 5.4.23.2](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip) or [open releases page](https://github.com/BepInEx/BepInEx/releases) and download the latest 5.x version.
 3. Extract the contents of the downloaded archive to your profile folder, overwriting existing files.
 
@@ -29,11 +30,11 @@ You can add the following launch options for potential performance improvements:
 -nolog -no-stereo-rendering -screen-quality Fastest -force-d3d11-no-singlethreaded
 ```
 
-To set launch options, open your mod manager, navigate to `Settings`, go to the `Debugging` tab, click `Set launch parameters` and paste the launch options above. 
+Navigate to your mod manager launch options settings and paste the launch options above.
+- Gale: `Edit manager settings` > `Set custom launch arguments`
+- r2modman: `Settings` > `Debugging` > `Set launch parameters`
 
 **Note**: Setting launch options directly in Steam would not work. If you're using VR, remove `-no-stereo-rendering` parameter.
-
-**Note**: This only applies to the specific profile you've selected. If you remove or create a new profile, you'll need to set launch options again.
 
 ## Modlist
 
@@ -175,7 +176,7 @@ In simple words, follow the [changelog](https://thunderstore.io/c/lethal-company
 
 BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.1.0%5D%20-%202025-02-22) of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
 
-- `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `r2modmanPlus-local` or else, depending on your mod manager.
+- `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `com.kesomannen.gale` or `r2modmanPlus-local`, depending on your mod manager.
 - `{profile}` is the name of the profile you are using. For example, `Default`.
 
 Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.

@@ -1,13 +1,13 @@
 {
   "name": "AurelionPack",
-  "version_number": "4.1.1",
+  "version_number": "4.1.2",
   "website_url": "https://steamcommunity.com/id/paxanddos/",
   "description": "[~100 mods] All-in-one modpack for fun times",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "PAXANDDOS-AurelionPack_Performance-1.0.1",
     "PAXANDDOS-AurelionPack_Host-1.0.1",
-    "qwbarch-Mirage-1.21.0",
+    "qwbarch-Mirage-1.23.0",
     "qwbarch-MirageCore-1.0.3",
     "Generic_GMD-Generic_Interiors-2.0.0",
     "Magic_Wesley-WesleysInteriors-2.1.0",

@@ -1,4 +1,12 @@
-## [4.1.0] - 2025-03-30
+## [4.1.2] - 2025-03-30
+
+Just some readme updates. Added Gale mod manager as recommended option.
+
+### Updated
+
+- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) `1.21.0` -> `1.23.0`
+
+## [4.1.0] - 2025-03-29
 
 Mixed together regular suits and model replacements. Testing new enemy. Also a lot of chores. Host-only pack now included by default.
 
