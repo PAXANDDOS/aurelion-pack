@@ -199,8 +199,6 @@ Currently as of [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/Aur
 - `Some metrics in the collection went over the configured values limit. Some values were ignored.`
 - `PlayOneShot was called with a null AudioClip.`
 
-In addition, there are several Unity errors tha happen from time to time, but I also feel like enemies just don't spawn anymore...
-
 Unity throws these in various scenarios but way too often. If anyone has any idea please reach out to me!  
 For now, all these warning are suppressed by [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) so your log file remains minimal and shows only errors.
 
