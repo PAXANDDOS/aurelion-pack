@@ -17,7 +17,7 @@ Here's how to update it:
 1. Open your mod manager and open your profile folder.
     - Gale: `File` > `Open profile folder`
     - r2modman: `Settings` > `Browse profile folder`
-2. [Download BepInEx 5.4.23.2](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip) or [open releases page](https://github.com/BepInEx/BepInEx/releases) and download the latest 5.x version.
+2. [Download BepInEx 5.4.23.3](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip) or [open releases page](https://github.com/BepInEx/BepInEx/releases) and download the latest 5.x version.
 3. Extract the contents of the downloaded archive to your profile folder, overwriting existing files.
 
 **Note**: This only applies to the specific profile you've selected. If you remove or create a new profile, you'll need to update BepInEx again.
@@ -40,8 +40,8 @@ Navigate to your mod manager launch options settings and paste the launch option
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 101  
-**Total mods after installation**: 153  
+**Total mods**: 102  
+**Total mods after installation**: 157  
 **Profile size after installation**: 2.65 GB
 
 ### Gameplay (14)
@@ -121,7 +121,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Mirasuits](https://thunderstore.io/c/lethal-company/p/Mirayah/Mirasuits/)
 - [Nikkis Cosmetic Kingdom](https://thunderstore.io/c/lethal-company/p/Nikki/NikkisCosmeticKingdom/)
 
-### Misc (21)
+### Misc (22)
 
 - [Always Hear Active Walkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
 - [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
@@ -133,6 +133,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
 - [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [Lethal Things](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/)
+- [Loading Screen](https://thunderstore.io/c/lethal-company/p/Bertogim/LoadingScreen/)
 - [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) *(via [Host Pack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host))*
 - [More Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
 - [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
@@ -187,24 +188,9 @@ In addition, disable these mods in your mod manager to show more logs:
 
 If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and using [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) which boosted performance.
 
-## Known issues
-
-Currently as of [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) the only issue is Unity spawning trillions of warnings for literally everything, like: 
-- `Can not play a disabled audio source` 
-- `TerminalNode must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalNode.` 
-- `TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.`
-- `Unable to add the requested character to font asset [3270-REGULAR SDF]'s atlas texture. Please make the texture [3270-REGULAR SDF Atlas] readable.`
-- `NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?`
-- `BoxColliders does not support negative scale or size.`
-- `Some metrics in the collection went over the configured values limit. Some values were ignored.`
-- `PlayOneShot was called with a null AudioClip.`
-
-Unity throws these in various scenarios but way too often. If anyone has any idea please reach out to me!  
-For now, all these warning are suppressed by [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/) so your log file remains minimal and shows only errors.
-
 ## Credits
 
 I am not associated with any of the mods listed above.  
 The name of the modpack has nothing to do with Asol.
 
-![](https://i.imgur.com/6R2xiWC.png)
+![](https://i.imgur.com/V7H7qVO.png)

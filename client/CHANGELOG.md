@@ -1,3 +1,63 @@
+## [4.2.0] - 2025-06-15
+
+I'm still alive! It's an update with a bunch of chores to keep the modpack alive and also align with recent Lethal Company updates.
+
+### Added
+
+- [Loading Screen](https://thunderstore.io/c/lethal-company/p/Bertogim/LoadingScreen/)
+- [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/)
+- [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/)
+- [TestAccountCore](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/)
+
+### Updated
+
+- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) `1.23.0` -> `1.25.2`
+- [MirageCore](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageCore/) `1.0.3` -> `1.0.4`
+- [Generic_Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/) `2.0.0` -> `2.1.0`
+- [Generic_Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/) `7.0.1` -> `7.5.1`
+- [Emergency_Dice_Updated](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.9.19` -> `1.11.5`
+- [MrovLib](https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/) `0.2.24` -> `0.3.1`
+- [TerminalFormatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/) `0.2.28` -> `0.2.29`
+- [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) `1.0.1` -> `1.1.1`
+- [ChillaxScraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) `1.5.8` -> `1.5.13`
+- [CustomStoryLogs](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/) `1.4.6` -> `1.5.0`
+- [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.11.0` -> `1.11.2`
+- [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.6.4` -> `2.7.0`
+- [Lategame_Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) `3.12.2` -> `3.12.3`
+- [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `2.3.2` -> `2.3.6`
+- [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/) `2.0.48` -> `2.0.50`
+- [OdinSerializer](https://thunderstore.io/c/lethal-company/p/Lordfirespeed/OdinSerializer/) `2022.11.9` -> `2024.2.2700`
+- [OpenBodyCams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/) `3.0.5` -> `3.0.6`
+- [Atlantica](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Atlantica/) `4.1.2` -> `4.1.3`
+- [JLL](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/) `1.9.3` -> `1.9.7`
+- [Remnants](https://thunderstore.io/c/lethal-company/p/KawaiiBone/Remnants/) `1.4.1` -> `1.4.2`
+- [PremiumScraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/) `2.3.5` -> `2.3.8`
+- [EnemySoundFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/) `1.6.6` -> `1.8.0`
+- [Biodiversity](https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/) `0.1.4` -> `0.2.5`
+- [Surfaced](https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/) `1.5.3` -> `1.5.6`
+- [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/) `1.11.0` -> `2.5.1`
+- [ScarletDevilMansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/) `2.3.1` -> `2.3.2`
+- [loaforcsSoundAPI](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI/) `2.0.5` -> `2.0.6`
+- [MaskFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/) `1.3.1` -> `1.4.0`
+- [StarlancerMoons](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/) `3.1.0` -> `3.1.1`
+- [WeatherRegistry](https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/) `0.5.5` -> `0.6.1`
+- [ProblematicPilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/) `1.3.5` -> `1.3.7`
+- [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/) `1.1.11` -> `1.1.12`
+- [ModelReplacementAPI](https://thunderstore.io/c/lethal-company/p/BunyaPineTree/ModelReplacementAPI/) `2.4.16` -> `2.4.18`
+- [LightEater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/) `1.0.4` -> `1.0.7`
+- (host) [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) `2.5.6` -> `2.5.8`
+- (host) [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) `1.4.6` -> `1.5.0`
+- (performance) [BepInEx_Faster_Load_AssetBundles_Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/) `1.0.0` -> `1.0.1`
+- (performance) [ButteryFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/) `1.13.2` -> `1.14.3`
+- (performance) [FontUpdate](https://thunderstore.io/c/lethal-company/p/rectorado/FontUpdate/) `0.6.6` -> `0.7.0`
+- (performance) [LethalFixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/) `1.2.6` -> `1.2.7`
+- (performance) [LethalPerformance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/) `1.0.1` -> `1.1.6`
+- (performance) [LethalSponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/) `1.1.8` -> `1.1.10`
+- (performance) [Matty_Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) `1.1.33` -> `1.1.35`
+- (performance) [PathfindingLagFix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/) `2.2.0` -> `2.2.1`
+- (performance) [PathfindingLib](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/) `0.0.14` -> `0.1.1`
+- (performance) [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/) `3.9.0` -> `3.10.0`
+
 ## [4.1.2] - 2025-03-30
 
 Just some readme updates. Added Gale mod manager as recommended option.

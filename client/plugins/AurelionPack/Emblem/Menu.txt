@@ -1,7 +1,9 @@
-AurelionPack v4.1.0 by PAXANDDOS
+AurelionPack v4.2.0 by PAXANDDOS
 
 This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.
 The main goal is to be as performant as possible by including best-in-class performance mods, most of the mods are thoughtfully configured to work efficiently.
+
+Have a fun time!
 
 Components:
 - AurelionPack Performance
@@ -96,6 +98,7 @@ Components:
 - General Improvements
 - Lethal Resonance
 - Lethal Things
+- Loading Screen
 - Majority Vote
 - More Company
 - More Suits
