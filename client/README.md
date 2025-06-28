@@ -41,7 +41,7 @@ Navigate to your mod manager launch options settings and paste the launch option
 Here's an actual modlist for this pack without tons of dependency mods.
 
 **Total mods**: 102  
-**Total mods after installation**: 157  
+**Total mods after installation**: 158  
 **Profile size after installation**: 2.65 GB
 
 ### Gameplay (14)

@@ -1,11 +1,11 @@
 {
   "name": "AurelionPack_Performance",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://steamcommunity.com/id/paxanddos/",
   "description": "Top-tier performance mods to boost framerate, fix issues and reduce lag.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
-    "mattymatty-AdditionalNetworking-2.2.2",
+    "mattymatty-AdditionalNetworking-2.3.1",
     "mattymatty-AsyncLoggers-2.1.4",
     "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
     "ButteryStancakes-ButteryFixes-1.14.3",
@@ -14,7 +14,7 @@
     "falcodxb-LessLogs-1.0.1",
     "Dev1A3-LethalFixes-1.2.7",
     "DiFFoZ-HarmonyXTranspilerFix-1.1.0",
-    "DiFFoZ-LethalPerformance-1.1.6",
+    "DiFFoZ-LethalPerformance-1.1.7",
     "Scoops-LethalSponge-1.1.10",
     "AdiBTW-Loadstone-0.1.22",
     "LethalCompanyModding-VertexLibrary-1.1.0",
@@ -22,7 +22,7 @@
     "Zaggy1024-PathfindingLagFix-2.2.1",
     "Zaggy1024-PathfindingLib-0.1.1",
     "JacobG5-ReverbTriggerFix-0.3.0",
-    "AudioKnight-StarlancerAIFix-3.10.0",
+    "AudioKnight-StarlancerAIFix-3.11.1",
     "Bobbie-UniTask-2.5.0"
   ]
 }

@@ -1,3 +1,28 @@
+## [4.2.1] - 2025-06-28
+
+Routine mod updates across client, host, and performance packs.
+
+### Updated
+
+- [Emergency Dice Updated](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/) `1.11.5` -> `1.11.8`
+- [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/) `0.6.5` -> `0.6.9`
+- [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/) `0.6.5` -> `0.6.9`
+- [CustomStoryLogs](https://thunderstore.io/c/lethal-company/p/Yorimor/CustomStoryLogs/) `1.5.0` -> `1.5.1`
+- [DetourContext_Dispose_Fix](https://thunderstore.io/c/lethal-company/p/Hamunii/DetourContext_Dispose_Fix/) `1.0.4` -> `1.0.5`
+- [AutoHookGenPatcher](https://thunderstore.io/c/lethal-company/p/Hamunii/AutoHookGenPatcher/) `1.0.6` -> `1.0.7`
+- [TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `2.3.6` -> `2.3.9`
+- [GeneralImprovements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/) `1.4.11` -> `1.4.13`
+- [JLL](https://thunderstore.io/c/lethal-company/p/JacobG5/JLL/) `1.9.7` -> `1.9.8`
+- [MaskFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/) `1.4.0` -> `1.4.1`
+- [StarlancerMoons](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerMoons/) `3.1.1` -> `3.2.0`
+- [LightEater](https://thunderstore.io/c/lethal-company/p/Lega/LightEater/) `1.0.7` -> `1.0.8`
+- (host) [LobbyControl](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/) `2.5.8` -> `2.5.9`
+- (host) [FairAI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/) `1.5.0` -> `1.5.1`
+- (host) [MajorityVote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/) `1.1.0` -> `1.1.1`
+- (performance) [AdditionalNetworking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/) `2.2.2` -> `2.3.1`
+- (performance) [LethalPerformance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/) `1.1.6` -> `1.1.7`
+- (performance) [StarlancerAIFix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/) `3.10.0` -> `3.11.1`
+
 ## [4.2.0] - 2025-06-15
 
 I'm still alive! It's an update with a bunch of chores to keep the modpack alive and also align with recent Lethal Company updates.
@@ -5,9 +30,6 @@ I'm still alive! It's an update with a bunch of chores to keep the modpack alive
 ### Added
 
 - [Loading Screen](https://thunderstore.io/c/lethal-company/p/Bertogim/LoadingScreen/)
-- [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/)
-- [MonoDetour](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/)
-- [TestAccountCore](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/)
 
 ### Updated
 
@@ -70,7 +92,7 @@ Just some readme updates. Added Gale mod manager as recommended option.
 
 Mixed together regular suits and model replacements. Testing new enemy. Also a lot of chores. Host-only pack now included by default.
 
-Might also be the last update for this pack since all of my friends are playing repo...  
+Might also be the last update for this pack since all of my friends are playing repo...
 Anyway, all of the mods are stable (except for LethalElements) and you can just update the mods without relying on this pack updates.
 
 ### Added
@@ -170,17 +192,17 @@ I've also added a huge load of fix/performance mods, as well as config changes. 
 - **Less Logs**:
   - disabled "warning" log level for Scarlet Mansion, Little Company, Biodiversity, Weather Registry, Buttery Fixes, Lethal Level Loader, Mattys Fixes, Additional Networking, Loadstone, Dungeon Generation Plus, Remnants, Reserved Item Slot Core, Solids Library, Too Many Emotes Scrap, MoreHead, Terminal Formatter, Lethal Fixes
   - disabled "error" log level for Wesleys Interior Shenanigans
-- **Async Loggers**: 
+- **Async Loggers**:
   - reduced sqlite max size (100MB -> 50MB)
   - changed Unity log level (Warning -> Error)
-- **Problematic Pilotry**: 
+- **Problematic Pilotry**:
   - reduced landing ship probability (100% -> 80%)
   - reduced dropship probability (100% -> 70%)
-- **MajorityVote**: 
+- **MajorityVote**:
   - reduced vote percentage (0.5 -> 0.4)
   - increased minumum votes needed (1 -> 2)
-- **Lethal Sponge**: 
-  - disabled fixFoliageLOD 
+- **Lethal Sponge**:
+  - disabled fixFoliageLOD
   - enabled minimal logging
   - increased fog budget (0.15 -> 0.16)
 - **Lethal Fixes**: disabled prop shadows
