@@ -1,7 +1,8 @@
 #### See [changelog](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) for detailed information about changes.
 
-This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.  
-The main goal is to be as performant as possible because my friends got potatoes for a PC.  
+This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.
+
+The main goal is to be as performant as possible because my friends got potatoes for a PC.
 
 ## Installation
 
@@ -17,7 +18,7 @@ Here's how to update it:
 1. Open your mod manager and open your profile folder.
     - Gale: `File` > `Open profile folder`
     - r2modman: `Settings` > `Browse profile folder`
-2. [Download BepInEx 5.4.23.3](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip) or [open releases page](https://github.com/BepInEx/BepInEx/releases) and download the latest 5.x version.
+2. [Download BepInEx 5.4.23.4](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip) or [open releases page](https://github.com/BepInEx/BepInEx/releases) and download the latest 5.x version.
 3. Extract the contents of the downloaded archive to your profile folder, overwriting existing files.
 
 **Note**: This only applies to the specific profile you've selected. If you remove or create a new profile, you'll need to update BepInEx again.
@@ -26,11 +27,12 @@ Here's how to update it:
 
 You can add the following launch options for potential performance improvements:
 
-```
+```plain
 -nolog -no-stereo-rendering -screen-quality Fastest -force-d3d11-no-singlethreaded
 ```
 
 Navigate to your mod manager launch options settings and paste the launch options above.
+
 - Gale: `Edit manager settings` > `Set custom launch arguments`
 - r2modman: `Settings` > `Debugging` > `Set launch parameters`
 
@@ -40,9 +42,9 @@ Navigate to your mod manager launch options settings and paste the launch option
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-**Total mods**: 102  
-**Total mods after installation**: 158  
-**Profile size after installation**: 2.65 GB
+- **Total mods**: 102
+- **Total mods after installation**: 158
+- **Profile size after installation**: 2.65 GB
 
 ### Gameplay (14)
 
@@ -183,6 +185,7 @@ BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/let
 Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.
 
 In addition, disable these mods in your mod manager to show more logs:
+
 - **AsyncLoggers** (suppresses Unity warnings)
 - **Less Logs** (suppresses logs from other mods)
 
@@ -190,7 +193,7 @@ If you want to go all-in, consider installing [Imperium](https://thunderstore.io
 
 ## Credits
 
-I am not associated with any of the mods listed above.  
+I am not associated with any of the mods listed above.
 The name of the modpack has nothing to do with Asol.
 
-![](https://i.imgur.com/V7H7qVO.png)
+![](https://i.imgur.com/7qZzKdS.png)
