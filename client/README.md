@@ -12,8 +12,8 @@ Use [Gale](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/downl
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-- **Total mods**: 108
-- **Total mods after installation**: 158
+- **Total mods**: 109
+- **Total mods after installation**: 159
 - **Profile size after installation**: 2.49 GB
 
 ### Performance & Fixes
@@ -32,12 +32,14 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/)
 - [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
 - [Lights Out](https://thunderstore.io/c/lethal-company/p/mrov/LightsOut/)
+- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/)
 - [Mask Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/)
 - [Masked Invis Fix](https://thunderstore.io/c/lethal-company/p/VirusTLNR/MaskedInvisFix/)
 - [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
 - [Melee Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/)
 - [Pathfinding Lag Fix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
+- [Smart Enemy Pathfinding](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/)
 - [Spawn Cycle Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SpawnCycleFixes/)
 - [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
 
@@ -116,7 +118,6 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Emblem](https://thunderstore.io/c/lethal-company/p/Darkbrewery/Emblem/)
 - [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
-- [Immersive Visor](https://thunderstore.io/c/lethal-company/p/TORIMA/Immersive_Visor/)
 - [Lethal Company VR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/)
 - [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [Loading Info](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadingInfo/)

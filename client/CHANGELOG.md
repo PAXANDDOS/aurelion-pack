@@ -1,3 +1,27 @@
+## [5.0.4] - 2026-04-20
+
+### Added
+
+- (performance) [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/)
+
+### Changed
+
+- [Immersive Visor](https://thunderstore.io/c/lethal-company/p/TORIMA/Immersive_Visor/) now packaged into the modpack because the original mod went missing from the store
+
+## [5.0.3] - 2026-04-20
+
+### Added
+
+- (performance) [Smart Enemy Pathfinding](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/)
+
+### Updated
+
+- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/) `4.1.0` -> `4.1.1`
+- [Kenji's Moons](https://thunderstore.io/c/lethal-company/p/rectorado/Kenjis_Moons/) `1.5.2` -> `1.5.3`
+- (performance) [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/) `1.17.2` -> `1.17.3`
+- (performance) [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/) `1.9.3` -> `1.9.5`
+- (performance) [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/) `0.3.1` -> `0.4.0`
+
 ## [5.0.2] - 2026-04-19
 
 ### Added
