@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-5.1.0-brightgreen)
+![Version](https://img.shields.io/badge/version-5.1.1-brightgreen)
 ![Mods](https://img.shields.io/badge/mods-112-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack?color=blue)
@@ -116,21 +116,21 @@ Mostly for me and my friends, easily expandable
 <details>
 <summary><b>Utilities & QoL</b></summary>
 
-- **Immersive Visor** – feel the rain, blood and damage on your screen. Exclusive to this modpack.
+- **Immersive Visor** – feel the rain, blood and damage on your screen. Exclusive to this modpack
+- **Random Moon** – we have too many moons, let fate decide your destination
+- **Poltergeist** – better spectating experience
 - **Lethal Resonance** – complete audio overhaul
 - **Elad's HUD** – cleaner display
+- **Terminal Improvements** – better terminal experience with menus for suits and other stuff
+- **Open Body Cams** – monitor your crew from the ship
+- **Ship Windows** – see outside without going outside
 - **General Improvements**, **Quality Company** – dozens of small QoL fixes
 - **ScienceBird Tweaks** – cool features as well as QoL changes
 - **Selectable Interiors** – choose your dungeon at the terminal
 - **Coroner** – detailed cause-of-death reports
-- **Open Body Cams** – monitor your crew from the ship
-- **Ship Windows** – see outside without going outside
-- **Terminal Improvements** – better terminal experience with menus for suits and other stuff
 - **Majority Vote** – democratic departure voting
 - **Lobby Control** – host tools for better sessions
-- **Random Moon** – we have too many moons, let fate decide your destination
 - **Ship Cleaner** – tidy ship, tidy mind
-- **Poltergeist** – better spectating experience
 - **Runtime Icons** – better inventory icons
 - **Lethal Company VR** – full VR support included
 
@@ -140,18 +140,9 @@ Mostly for me and my friends, easily expandable
 
 > ⚠️ **Updating?** For major version updates, install on a **new clean profile** to avoid leftover mods from previous versions.
 
-### Gale (Recommended)
-
-1. Download [Gale Mod Manager](https://kesomannen.com/gale)
+1. Download [Gale Mod Manager](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/download/)
 2. Search for **"AurelionPack"**
 3. Click **Install**, then hit **Update** on any mods that require it
-4. Launch through the mod manager
-
-### r2modman
-
-1. Download [r2modman](https://r2modman.com/download/)
-2. Select Lethal Company
-3. Search **"AurelionPack"** and install
 4. Launch through the mod manager
 
 ## FAQ

@@ -8,19 +8,26 @@ Small changes to the configs. Added new modpack icons and banner.
 - **ScienceBird Tweaks**:
   - enabled ship clipboard and sticky note
   - enabled rotating floodlight upon landing
+  - increased floodlight range (45 -> 300)
   - removed ship helmet
 - **Ship Windows**:
   - enabled shutter
   - enabled right window
   - disallowed enemy triggering through side windows
+- **Too Many Emotes**: reverted unlock all emotes
 
 ### Updated
 
 - [Chillax Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) `1.6.5` -> `1.6.6`
+- [Farming and Cooking Mod](https://thunderstore.io/c/lethal-company/p/MelanieMelicious/Farming_and_Cooking_Mod_MelanieMelicious/) `1.3.3` -> `1.3.4`
+- (performance) [Lights Out](https://thunderstore.io/c/lethal-company/p/mrov/LightsOut/) `0.2.0` -> `0.2.1`
 - (performance) [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/) `1.6.1` -> `1.6.2`
 
 ### Removed
 
+- [Ichigo Kurosaki](https://thunderstore.io/c/lethal-company/p/TsuShi/IchigoKurosaki/)
+- [Shinji Hirako](https://thunderstore.io/c/lethal-company/p/TsuShi/Shinji_Hirako/)
+- [Yachiru Kusajishi](https://thunderstore.io/c/lethal-company/p/TsuShi/YachiruKusajishi/)
 - (performance) [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
 
 ## [5.1.0] - 2026-04-22

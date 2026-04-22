@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.0.7-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.8-brightgreen)
 ![Mods](https://img.shields.io/badge/mods-27-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
@@ -71,34 +71,19 @@ Every mod here does exactly one thing: make the game run better and crash less.
 
 ### Standalone (any modpack or vanilla)
 
-1. Download [Gale](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/download/)
+1. Download [Gale Mod Manager](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/download/)
 2. Search for **"AurelionPack_Performance"**
-3. Install
+3. Click **Install**, then hit **Update** on any mods that require it
+4. Launch through the mod manager
 
 ### As Part of AurelionPack
 
 This pack is bundled automatically when you install [AurelionPack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/).
 
-## FAQ
-
-<details>
-<summary><b>Does this change any gameplay?</b></summary>
-
-No. Every mod here is strictly performance improvements and bug fixes. No enemies, moons, items, or mechanics are added or changed.
-</details>
-
-<details>
-<summary><b>Is this compatible with other modpacks?</b></summary>
-
-Yes. AurelionPack Performance is designed to be a drop-in layer. If another modpack includes any of the same mods, your mod manager will handle the deduplication.
-</details>
-
-## Please refer to the main modpack for all the information and changelog
+## Credits
 
 [![image](https://i.imgur.com/803Z9iT.png)](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/)
 <sub><sup>Click on the image to open the modpack.</sub></sup>
-
-## Credits
 
 I am not associated with any of the mods listed above. All credit goes to the individual mod authors.
 
