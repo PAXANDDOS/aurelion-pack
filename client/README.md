@@ -1,196 +1,225 @@
-#### See [changelog](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) for detailed information about changes.
+![Version](https://img.shields.io/badge/version-5.1.0-brightgreen)
+![Mods](https://img.shields.io/badge/mods-113-purple)
+![Compatible](https://img.shields.io/badge/compatible-v81-red)
+![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack?color=blue)
+![Downloads2](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
 
-This mod pack includes a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.
+**100+ mods • 40+ Moons • 10+ Enemies • Optimised Performance**
 
-The main goal is to be as performant as possible because my friends got potatoes for a PC.
+*All-in-one modpack with a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.*
+
+[📋 CHANGELOG](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/)
+
+## What's Included?
+
+<details>
+<summary><b>Performance & Fixes</b></summary>
+
+The full [AurelionPack Performance](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Performance/) suite is bundled, covering:
+
+- **Lethal Performance** – engine-level FPS improvements
+- **CullFactory** – optimized rendering, huge FPS boost in interiors
+- **Async Loggers** – background logging, no frame spikes
+- **Pathfinding Lag Fix** – smoother AI movement
+- **Smart Enemy Pathfinding** – better AI, less stuttering
+- **BepInEx Faster Load** – quicker startup times
+- **Less Logs** – suppresses log spam
+- **DunGen Reference Fixer** – for v80 compatibility of custom moons
+- And 20+ targeted bug fixes
+
+</details>
+
+<details>
+<summary><b>Gameplay Enhancements</b></summary>
+
+**High-Stakes Events:**
+- **Facility Meltdown** – race against time as the reactor overheats
+- **Chaos Events** – random events shake up every run
+- **Malfunctions** – equipment fails when you need it most
+- **Chained Together** – survive tethered to your crewmates
+
+**Progression & Economy:**
+- **Lategame Upgrades** – better equipment for long runs
+- **Better EXP** – reworked experience system
+- **Lethal Casino** – gamble your hard-earned scrap
+- **Farming and Cooking** – gather and craft on the ship
+
+</details>
+
+<details>
+<summary><b>Moons & Interiors</b></summary>
+
+**40+ new moons** across multiple curated collections:
+- **Generic Moons**
+- **Beanies Moons**
+- **Kenjis Moons**
+- **The Dam**
+- **Slaughterhouse**
+
+**New Interior Layouts:**
+- **Wesley's Interiors**
+- **Generic Interiors**
+- **Mones Interiors**
+
+</details>
+
+<details>
+<summary><b>Enemies & Threats</b></summary>
+
+10+ new enemies ready to ruin your day:
+
+- **Mirage** – mimics your crewmates' voices
+- **Locker** – the sound of scraping metal means run
+- **Faceless Stalker** – it has no face, only hunger
+- **Scopophobia** – true SCP experience
+- **Football** – don't ask
+- **Mopator** – the facility's worst cleaning employee
+- **Men Stalker** – corporate nightmare made flesh
+- **Devious Traps** – the facility itself wants you dead
+
+</details>
+
+<details>
+<summary><b>Models & Cosmetics</b></summary>
+
+Mostly for me and my friends, easily expandable
+
+- **TooManyEmotes** – 200+ emotes to express your dying moments
+- **Anime Models** – 2B, Hatsune Miku, Ichigo, Shinji, Umamusume, and more
+- **Phantom Thieves & Umamusume** player model packs
+- **Zenless Zone Zero Bangboo Suits**
+- **Resident Evil HUNK Skin**
+- **Rem**
+
+</details>
+
+<details>
+<summary><b>Items & Scrap</b></summary>
+
+- **Premium Scraps** – high-value collectibles worth hunting
+- **Chillax Scraps** – relaxing loot variety
+- **Persona Scrap** – for the Phantom Thieves fans
+- **Slaughterhouse Scraps** – themed to the moon
+- **Needy Cats** – adopt and pet
+- **Bomb Collar** – motivational equipment
+- **Hookah Place** – exotic contraband
+- **TooManyEmotes Scrap** – collectible emote items
+
+</details>
+
+<details>
+<summary><b>Utilities & QoL</b></summary>
+
+- **Immersive Visor** – feel the rain, blood and damage on your screen. Exclusive to this modpack.
+- **Lethal Resonance** – complete audio overhaul
+- **Elad's HUD** – cleaner display
+- **General Improvements**, **Quality Company** – dozens of small QoL fixes
+- **ScienceBird Tweaks** – cool features as well as QoL changes
+- **Selectable Interiors** – choose your dungeon at the terminal
+- **Coroner** – detailed cause-of-death reports
+- **Open Body Cams** – monitor your crew from the ship
+- **Ship Windows** – see outside without going outside
+- **Terminal Improvements** – better terminal experience with menus for suits and other stuff
+- **Majority Vote** – democratic departure voting
+- **Lobby Control** – host tools for better sessions
+- **Random Moon** – we have too many moons, let fate decide your destination
+- **Ship Cleaner** – tidy ship, tidy mind
+- **Poltergeist** – better spectating experience
+- **Runtime Icons** – better inventory icons
+- **Lethal Company VR** – full VR support included
+
+</details>
 
 ## Installation
 
-Use [Gale](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/download/) to download and install the modpack. Make sure to hit "Update" for any mods that will require it after installation.
+> ⚠️ **Updating?** For major version updates, install on a **new clean profile** to avoid leftover mods from previous versions.
 
-## Modlist
+### Gale (Recommended)
 
-Here's an actual modlist for this pack without tons of dependency mods.
+1. Download [Gale Mod Manager](https://kesomannen.com/gale)
+2. Search for **"AurelionPack"**
+3. Click **Install**, then hit **Update** on any mods that require it
+4. Launch through the mod manager
 
-- **Total mods**: 113
-- **Total mods after installation**: 159
-- **Profile size after installation**: 2.49 GB
+### r2modman
 
-### Performance & Fixes
+1. Download [r2modman](https://r2modman.com/download/)
+2. Select Lethal Company
+3. Search **"AurelionPack"** and install
+4. Launch through the mod manager
 
-- [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
-- [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
-- [Barber Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/BarberFixes/)
-- [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
-- [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
-- [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
-- [Destroy Item In Slot Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/)
-- [DunGen Reference Fixer](https://thunderstore.io/c/lethal-company/p/Zaggy1024/DunGenReferenceFixer/)
-- [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/)
-- [Entrance Teleport Optimizations](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/)
-- [LCUltrawide](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/LCUltrawide_Community/)
-- [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
-- [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
-- [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/)
-- [Less Logs](https://thunderstore.io/c/lethal-company/p/falcodxb/LessLogs/)
-- [Lights Out](https://thunderstore.io/c/lethal-company/p/mrov/LightsOut/)
-- [Lost Enemy Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/LostEnemyFix/)
-- [Mask Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MaskFixes/)
-- [Masked Invis Fix](https://thunderstore.io/c/lethal-company/p/VirusTLNR/MaskedInvisFix/)
-- [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/)
-- [Melee Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/)
-- [Pathfinding Lag Fix](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLagFix/)
-- [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
-- [Smart Enemy Pathfinding](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/)
-- [Spawn Cycle Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SpawnCycleFixes/)
-- [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/)
-- [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
+## FAQ
 
-### Gameplay
+<details>
+<summary><b>Can I add or remove mods?</b></summary>
 
-- [Advance Features](https://thunderstore.io/c/lethal-company/p/lethal_coder/Advance_Features/)
-- [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
-- [Chaos Events](https://thunderstore.io/c/lethal-company/p/s1spa/Chaos_Events/)
-- [Chained Together](https://thunderstore.io/c/lethal-company/p/TheFuckingKevin/ChainedTogether/)
-- [Facility Meltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
-- [Facility Overcharge](https://thunderstore.io/c/lethal-company/p/keeo/FacilityOvercharge/)
-- [Farming and Cooking](https://thunderstore.io/c/lethal-company/p/MelanieMelicious/Farming_and_Cooking_Mod_MelanieMelicious/)
-- [Lategame Upgrades](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/)
-- [Lethal Progression](https://thunderstore.io/c/lethal-company/p/TisRyno/LethalCompanyProgressionPatchFix/)
-- [Lethal Weighted Mines](https://thunderstore.io/c/lethal-company/p/froyo4u/LethalWeightedMines/)
-- [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
-- [Mirage](https://thunderstore.io/c/lethal-company/p/Flowprojects/Mirage_v81/)
+Yes, but the pack is carefully balanced. Additions or removals may cause instability or conflicts. However you are free to add or remove any suits, models and other cosmetic mods.
+</details>
 
-### Moons & Interiors
+<details>
+<summary><b>How do I update?</b></summary>
 
-- [Beanies Moons](https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanies_Moons/)
-- [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/)
-- [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/)
-- [Kenjis Moons](https://thunderstore.io/c/lethal-company/p/rectorado/Kenjis_Moons/)
-- [Lethal Casino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
-- [Mones Interiors](https://thunderstore.io/c/lethal-company/p/MonesMonesowicz/Mones_Interiors/)
-- [Slaughterhouse](https://thunderstore.io/c/lethal-company/p/Nikki/Slaughterhouse/)
-- [The Dam](https://thunderstore.io/c/lethal-company/p/TamTeam/The_Dam/)
-- [Wesley's Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
-- [Wesley's Weathers](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Weathers/)
+Create a **new profile** in your mod manager and install the latest version. Don't update over the old profile.
+</details>
 
-### Models & Cosmetics
+<details>
+<summary><b>Can I use VR?</b></summary>
 
-- [2B NieR Reincarnation Outfit](https://thunderstore.io/c/lethal-company/p/Kxoxo/2B_NieR_Reincarnation_Outfit/)
-- [Classic Hatsune Miku Model](https://thunderstore.io/c/lethal-company/p/An7i/ClassicHatsuneMikuModel/)
-- [Ichigo Kurosaki](https://thunderstore.io/c/lethal-company/p/TsuShi/IchigoKurosaki/)
-- [Lethal Life More Suits](https://thunderstore.io/c/lethal-company/p/TeamAlphaWolfSquadron/LethalLifeMoreSuits/)
-- [Phantom Thieves Player Models](https://thunderstore.io/c/lethal-company/p/Teaisnt/PhantomThievesPlayerModels/)
-- [Rem](https://thunderstore.io/c/lethal-company/p/MointPan/Rem/)
-- [Resident Evil ORC Hunk Skin](https://thunderstore.io/c/lethal-company/p/nickubus/ResidentEvilORCHunkSkin/)
-- [Shinji Hirako](https://thunderstore.io/c/lethal-company/p/TsuShi/Shinji_Hirako/)
-- [Umamususme Player Models](https://thunderstore.io/c/lethal-company/p/Teaisnt/UmamusumePlayerModels/)
-- [Yachiru Kusajishi](https://thunderstore.io/c/lethal-company/p/TsuShi/YachiruKusajishi/)
-- [Zenless Zone Zero Bangboo Suits](https://thunderstore.io/c/lethal-company/p/inki/ZenlessZoneZeroBangbooSuits/)
+VR support is included but disabled by default. To enable it:
 
-### Items & Scrap
+1. Open `io.daxcess.lcvr.cfg` in your mod manager config editor
+2. Set `DisableVR` to `false`
+3. Launch Lethal Company from Steam with OpenXR active on your VR runtime
+</details>
 
-- [Bomb Collar](https://thunderstore.io/c/lethal-company/p/Jordo/BombCollar/)
-- [Chillax Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/)
-- [Hookah Place](https://thunderstore.io/c/lethal-company/p/Ratijas/HookahPlace/)
-- [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
-- [Persona Scrap](https://thunderstore.io/c/lethal-company/p/Pearsonafan2002/PersonaScrap/)
-- [Premium Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/PremiumScraps/)
-- [Slaughterhouse Scraps](https://thunderstore.io/c/lethal-company/p/Nikki/SlaughterhouseScraps/)
-- [Stupid Collection of Random Articles for Players](https://thunderstore.io/c/lethal-company/p/Zeldahu/StupidCollectionOfRandomArticlesForPlayers/)
-- [Too Many Emotes Scrap](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotesScrap/)
+<details>
+<summary><b>Compatible with other modpacks?</b></summary>
 
-### Enemies & NPCs
+No. This pack should be installed on its own profile to avoid conflicts. However you are free to plug [AurelionPack Performance](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Performance/) into your own modpacks.
+</details>
 
-- [Devious Traps](https://thunderstore.io/c/lethal-company/p/bcs4313/Devious_Traps/)
-- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
-- [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
-- [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
-- [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/)
-- [Mopator](https://thunderstore.io/c/lethal-company/p/WaterGun/Mopator/)
-- [Scopophobia](https://thunderstore.io/c/lethal-company/p/theunknowncod3r/Scopophobia/)
-- [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
+## Troubleshooting
 
-### Utilities & QoL
+<details>
+<summary><b>Game won't launch / black screen</b></summary>
 
-- [Always Hear Active Walkies](https://thunderstore.io/c/lethal-company/p/ZetaArcade/AlwaysHearActiveWalkiesFork/)
-- [Based Decor Placement](https://thunderstore.io/c/lethal-company/p/mr_hat/BasedDecorPlacement/)
-- [Better Vehicle Controls](https://thunderstore.io/c/lethal-company/p/Dev1A3/BetterVehicleControls/)
-- [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
-- [Elads HUD](https://thunderstore.io/c/lethal-company/p/xibao_love/FixEladsHUD/)
-- [Emblem](https://thunderstore.io/c/lethal-company/p/Darkbrewery/Emblem/)
-- [Extended Meltdown OST](https://thunderstore.io/c/lethal-company/p/Freakazoids/Extended_Meltdown_Ost/)
-- [Fair AI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
-- [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
-- [Instant Buy](https://thunderstore.io/c/lethal-company/p/Nexor/InstantBuy/)
-- [Lethal Company VR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/)
-- [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
-- [Loading Info](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadingInfo/)
-- [Loading Screen](https://thunderstore.io/c/lethal-company/p/Bertogim/LoadingScreen/)
-- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
-- [Lobby Improvements](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/)
-- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/)
-- [Open Body Cams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
-- [Quality Company](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
-- [Random Moon](https://thunderstore.io/c/lethal-company/p/Zigzag/RandomMoonFX/)
-- [Runtime Icons](https://thunderstore.io/c/lethal-company/p/debit_card_debit/RuntimeIcons_BetterRotations/)
-- [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/)
-- [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/)
-- [Selectable Interiors](https://thunderstore.io/c/lethal-company/p/NotezyTeam/SelectableInteriors/)
-- [Ship Cleaner](https://thunderstore.io/c/lethal-company/p/Yakka_Productions/ShipCleaner/)
-- [Ship Windows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/)
-- [Suits Terminal](https://thunderstore.io/c/lethal-company/p/darmuh/suitsTerminal/)
-- [Terminal Formatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
-- [Terminal Stuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/)
-- [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
-- [Yippee](https://thunderstore.io/c/lethal-company/p/JacuJ/YippeeTwo/)
+Make sure you've updated all the mods in your mod manager. This modpack only includes top-level dependencies, everything else is handles automatically - just hit update.
+</details>
 
-## Updating the modpack
+<details>
+<summary><b>My FPS is low – what do I do?</b></summary>
 
-I can add and remove mods as this modpack evolves but, unfortunately, updating the modpack isn't enough to follow all dependency changes, so you can have redundant mods in your list. For example, update [3.2.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.2.0%5D%20-%202025-02-28) introduced a lot of changes and without re-installing the modpack you would have dozens of old mods dangling around.
+At the very least you can lower in-game graphics settings, close background applications and Discord hardware acceleration.
 
-In simple words, follow the [changelog](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/) and if there was a massive update it's better to re-install the modpack on a clean profile, otherwise just remove the old mods from your list.
+For extra performance gains, add these launch arguments in your mod manager:
 
-## Launch options
-
-Optionally, you can go further by adding the following launch options for potential performance improvements:
-
-```plain
+```
 -nolog -no-stereo-rendering -screen-quality Fastest -force-d3d11-no-singlethreaded
 ```
 
-Navigate to your mod manager launch options settings and paste the launch options above.
+- **Gale:** `Edit manager settings` > `Set custom launch arguments`
+- **r2modman:** `Settings` > `Debugging` > `Set launch parameters`
 
-- Gale: `Edit manager settings` > `Set custom launch arguments`
-- r2modman: `Settings` > `Debugging` > `Set launch parameters`
+Note: Remove `-no-stereo-rendering` if using VR.
 
-**Note**: Setting launch options directly in Steam would not work. If you're using VR, remove `-no-stereo-rendering` parameter.
+</details>
 
-## Using VR
+<details>
+<summary><b>My friends can't join / connection issues?</b></summary>
 
-To use VR with this modpack, you'll need to enable VR support in the mod configuration first. Using your mod manager, open `io.daxcess.lcvr.cfg` and set `DisableVR` option to `false`.
+All players must have the **exact same modpack version**. If hosting, forward UDP port 7777.
+</details>
 
-After enabling VR in the config, launch Lethal Company from Steam with OpenXR active on your VR runtime of choice.
+<details>
+<summary><b>How do I debug crashes or issues?</b></summary>
 
-## Debugging
+Find your log at `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`.
 
-BepInEx console was disabled as of version [3.1.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B3.1.0%5D%20-%202025-02-22) of the modpack. You can open the log of your recent session in `%AppData%\{mod_manager_folder}\LethalCompany\profiles\{profile}\BepInEx\LogOutput.log`. I suggest opening it in VSCode or any other text editor with syntax highlighting for better readability.
-
-- `{mod_manager_folder}` is the folder where your mod manager is installed. By default it's `com.kesomannen.gale` or `r2modmanPlus-local`, depending on your mod manager.
-- `{profile}` is the name of the profile you are using. For example, `Default`.
-
-Or you can enable the console by setting `Enabled` to `true` under `Logging.Console` section in `BepInEx.cfg`. You can open it using your mod manager.
-
-In addition, disable these mods in your mod manager to show more logs:
-
-- **AsyncLoggers** (suppresses Unity warnings)
-- **Less Logs** (suppresses logs from other mods)
-
-If you want to go all-in, consider installing [Imperium](https://thunderstore.io/c/lethal-company/p/giosuel/Imperium/) and using [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/). These tools have proven useful and I also used them to make update [4.0.0](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/#%5B4.0.0%5D%20-%202025-03-10) which boosted performance.
+For more verbose logs, temporarily disable **AsyncLoggers** and **Less Logs** in your mod manager.
+</details>
 
 ## Credits
 
-I am not associated with any of the mods listed above.
-The name of the modpack has nothing to do with Asol.
+I am not associated with any of the mods listed above. All credit goes to the individual mod authors.
 
 ![](https://i.imgur.com/5NmVID0.png)
