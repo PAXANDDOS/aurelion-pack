@@ -1,6 +1,6 @@
 {
   "name": "AurelionPack_Performance",
-  "version_number": "1.0.7",
+  "version_number": "1.0.8",
   "website_url": "https://steamcommunity.com/id/paxanddos/",
   "description": "Top-tier performance mods to boost framerate, fix issues and reduce lag.",
   "dependencies": [
@@ -16,11 +16,10 @@
     "DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
     "DiFFoZ-LethalPerformance-1.2.4",
     "falcodxb-LessLogs-1.0.1",
-    "Fandovec03-SpiderPositionFix-1.6.1",
+    "Fandovec03-SpiderPositionFix-1.6.2",
     "fumiko-CullFactory-2.0.7",
     "JacobG5-DestroyItemInSlotFix-1.0.0",
     "JacobG5-LostEnemyFix-1.1.1",
-    "JacobG5-ReverbTriggerFix-0.4.0",
     "mattymatty-AdditionalNetworking-2.4.1",
     "mattymatty-AsyncLoggers-2.2.3",
     "mattymatty-EntranceTeleportOptimizations-1.0.0",

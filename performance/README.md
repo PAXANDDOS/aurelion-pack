@@ -64,7 +64,6 @@ Every mod here does exactly one thing: make the game run better and crash less.
 - [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/) – fixes Bunker Spider positioning desyncs
 - [DunGen Reference Fixer](https://thunderstore.io/c/lethal-company/p/Zaggy1024/DunGenReferenceFixer/) – prevents dungeon generation errors with modded maps
 - [Destroy Item In Slot Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/) – fixes item destruction causing inventory corruption
-- [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/) – fixes audio reverb zones on modded maps
 
 </details>
 

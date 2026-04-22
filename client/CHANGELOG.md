@@ -1,4 +1,31 @@
+## [5.1.1] - 2026-04-22
+
+Small changes to the configs. Added new modpack icons and banner.
+
+### Changed
+
+- **General Improvements**: removed ship clipboard and sticky note
+- **ScienceBird Tweaks**:
+  - enabled ship clipboard and sticky note
+  - enabled rotating floodlight upon landing
+  - removed ship helmet
+- **Ship Windows**:
+  - enabled shutter
+  - enabled right window
+  - disallowed enemy triggering through side windows
+
+### Updated
+
+- [Chillax Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/) `1.6.5` -> `1.6.6`
+- (performance) [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/) `1.6.1` -> `1.6.2`
+
+### Removed
+
+- (performance) [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
+
 ## [5.1.0] - 2026-04-22
+
+After some testing I was able to make some significant changes. Removed large yet useless mods and replaced most of them with ligher alternatives. Using the freed space I was able to fit one more good bundle of moons (Beanies Moons) and still come out with a lighter modpack. Also included good utility mods to make gameplay better.
 
 ### Added
 
@@ -6,8 +33,8 @@
 - [Beanies Moons](https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanies_Moons/)
 - [Better Vehicle Controls](https://thunderstore.io/c/lethal-company/p/Dev1A3/BetterVehicleControls/)
 - [Classic Hatsune Miku Model](https://thunderstore.io/c/lethal-company/p/An7i/ClassicHatsuneMikuModel/)
-- [Extended Meltdown OST](https://thunderstore.io/c/lethal-company/p/Freakazoids/Extended_Meltdown_Ost/)
-- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
+- [Extended Meltdown OST](https://thunderstore.io/c/lethal-company/p/Freakazoids/Extended_Meltdown_Ost/) replaced MeltdownMusicCompilation
+- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) replaces Vecna
 - [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
 - [Instant Buy](https://thunderstore.io/c/lethal-company/p/Nexor/InstantBuy/)
 - [2B NieR Reincarnation Outfit](https://thunderstore.io/c/lethal-company/p/Kxoxo/2B_NieR_Reincarnation_Outfit/)
@@ -19,7 +46,7 @@
 - [Ship Cleaner](https://thunderstore.io/c/lethal-company/p/Yakka_Productions/ShipCleaner/)
 - [Terminal Stuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/)
 - [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
-- [Quality Company](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
+- [Quality Company](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/) replaced SellMyScrap
 - (performance) [Destroy Item In Slot Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/)
 - (performance) [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/)
 - (performance) [LCUltrawide](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/LCUltrawide_Community/)
@@ -47,7 +74,7 @@
 
 - [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/)
 - [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
-- [MeltdownMusicCompilation](https://thunderstore.io/c/lethal-company/p/dacodingtrashcan/MeltdownMusicCompilation/)
+- [Meltdown Music Compilation](https://thunderstore.io/c/lethal-company/p/dacodingtrashcan/MeltdownMusicCompilation/)
 - [Moai Enemy](https://thunderstore.io/c/lethal-company/p/bcs4313/Moai_Enemy/)
 - [Sell My Scrap](https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/)
 - [Tartarus](https://thunderstore.io/c/lethal-company/p/Teaisnt/Tartarus/)
