@@ -12,7 +12,7 @@ Use [Gale](https://kesomannen.com/gale) or [r2modman](https://r2modman.com/downl
 
 Here's an actual modlist for this pack without tons of dependency mods.
 
-- **Total mods**: 109
+- **Total mods**: 113
 - **Total mods after installation**: 159
 - **Profile size after installation**: 2.49 GB
 
@@ -21,12 +21,14 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Additional Networking](https://thunderstore.io/c/lethal-company/p/mattymatty/AdditionalNetworking/)
 - [Async Loggers](https://thunderstore.io/c/lethal-company/p/mattymatty/AsyncLoggers/)
 - [Barber Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/BarberFixes/)
-- [BepInEx Faster Load Asset Bundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
+- [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/lethal-company/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
 - [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
 - [Cull Factory](https://thunderstore.io/c/lethal-company/p/fumiko/CullFactory/)
+- [Destroy Item In Slot Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/)
 - [DunGen Reference Fixer](https://thunderstore.io/c/lethal-company/p/Zaggy1024/DunGenReferenceFixer/)
 - [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/)
 - [Entrance Teleport Optimizations](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/)
+- [LCUltrawide](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/LCUltrawide_Community/)
 - [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/)
 - [Lethal Performance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/)
 - [Lethal Sponge](https://thunderstore.io/c/lethal-company/p/Scoops/LethalSponge/)
@@ -41,6 +43,7 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Reverb Trigger Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/)
 - [Smart Enemy Pathfinding](https://thunderstore.io/c/lethal-company/p/Zaggy1024/SmartEnemyPathfinding/)
 - [Spawn Cycle Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/SpawnCycleFixes/)
+- [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/)
 - [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/)
 
 ### Gameplay
@@ -49,7 +52,6 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/)
 - [Chaos Events](https://thunderstore.io/c/lethal-company/p/s1spa/Chaos_Events/)
 - [Chained Together](https://thunderstore.io/c/lethal-company/p/TheFuckingKevin/ChainedTogether/)
-- [Fair AI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
 - [Facility Meltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/)
 - [Facility Overcharge](https://thunderstore.io/c/lethal-company/p/keeo/FacilityOvercharge/)
 - [Farming and Cooking](https://thunderstore.io/c/lethal-company/p/MelanieMelicious/Farming_and_Cooking_Mod_MelanieMelicious/)
@@ -57,41 +59,39 @@ Here's an actual modlist for this pack without tons of dependency mods.
 - [Lethal Progression](https://thunderstore.io/c/lethal-company/p/TisRyno/LethalCompanyProgressionPatchFix/)
 - [Lethal Weighted Mines](https://thunderstore.io/c/lethal-company/p/froyo4u/LethalWeightedMines/)
 - [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
-- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/)
 - [Mirage](https://thunderstore.io/c/lethal-company/p/Flowprojects/Mirage_v81/)
 
 ### Moons & Interiors
 
+- [Beanies Moons](https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanies_Moons/)
 - [Generic Interiors](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Interiors/)
 - [Generic Moons](https://thunderstore.io/c/lethal-company/p/Generic_GMD/Generic_Moons/)
 - [Kenjis Moons](https://thunderstore.io/c/lethal-company/p/rectorado/Kenjis_Moons/)
 - [Lethal Casino](https://thunderstore.io/c/lethal-company/p/mrgrm7/LethalCasino/)
 - [Mones Interiors](https://thunderstore.io/c/lethal-company/p/MonesMonesowicz/Mones_Interiors/)
 - [Slaughterhouse](https://thunderstore.io/c/lethal-company/p/Nikki/Slaughterhouse/)
-- [Tartarus](https://thunderstore.io/c/lethal-company/p/Teaisnt/Tartarus/)
 - [The Dam](https://thunderstore.io/c/lethal-company/p/TamTeam/The_Dam/)
 - [Wesley's Interiors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
 - [Wesley's Weathers](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Weathers/)
 
 ### Models & Cosmetics
 
+- [2B NieR Reincarnation Outfit](https://thunderstore.io/c/lethal-company/p/Kxoxo/2B_NieR_Reincarnation_Outfit/)
+- [Classic Hatsune Miku Model](https://thunderstore.io/c/lethal-company/p/An7i/ClassicHatsuneMikuModel/)
 - [Ichigo Kurosaki](https://thunderstore.io/c/lethal-company/p/TsuShi/IchigoKurosaki/)
 - [Lethal Life More Suits](https://thunderstore.io/c/lethal-company/p/TeamAlphaWolfSquadron/LethalLifeMoreSuits/)
 - [Phantom Thieves Player Models](https://thunderstore.io/c/lethal-company/p/Teaisnt/PhantomThievesPlayerModels/)
-- [Rangiku Matsumoto](https://thunderstore.io/c/lethal-company/p/TsuShi/RangikuMatsumoto/)
 - [Rem](https://thunderstore.io/c/lethal-company/p/MointPan/Rem/)
 - [Resident Evil ORC Hunk Skin](https://thunderstore.io/c/lethal-company/p/nickubus/ResidentEvilORCHunkSkin/)
 - [Shinji Hirako](https://thunderstore.io/c/lethal-company/p/TsuShi/Shinji_Hirako/)
 - [Umamususme Player Models](https://thunderstore.io/c/lethal-company/p/Teaisnt/UmamusumePlayerModels/)
 - [Yachiru Kusajishi](https://thunderstore.io/c/lethal-company/p/TsuShi/YachiruKusajishi/)
-- [Yunara Suit](https://thunderstore.io/c/lethal-company/p/inki/YunaraSuit/)
 - [Zenless Zone Zero Bangboo Suits](https://thunderstore.io/c/lethal-company/p/inki/ZenlessZoneZeroBangbooSuits/)
 
 ### Items & Scrap
 
 - [Bomb Collar](https://thunderstore.io/c/lethal-company/p/Jordo/BombCollar/)
 - [Chillax Scraps](https://thunderstore.io/c/lethal-company/p/Zigzag/ChillaxScraps/)
-- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/)
 - [Hookah Place](https://thunderstore.io/c/lethal-company/p/Ratijas/HookahPlace/)
 - [Needy Cats](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/)
 - [Persona Scrap](https://thunderstore.io/c/lethal-company/p/Pearsonafan2002/PersonaScrap/)
@@ -103,35 +103,45 @@ Here's an actual modlist for this pack without tons of dependency mods.
 ### Enemies & NPCs
 
 - [Devious Traps](https://thunderstore.io/c/lethal-company/p/bcs4313/Devious_Traps/)
+- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
+- [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
 - [Locker](https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/)
 - [Men Stalker](https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/)
-- [Moai Enemy](https://thunderstore.io/c/lethal-company/p/bcs4313/Moai_Enemy/)
 - [Mopator](https://thunderstore.io/c/lethal-company/p/WaterGun/Mopator/)
 - [Scopophobia](https://thunderstore.io/c/lethal-company/p/theunknowncod3r/Scopophobia/)
-- [Vecna](https://thunderstore.io/c/lethal-company/p/Reiko88/Vecna/)
+- [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
 
 ### Utilities & QoL
 
-- [BasedDecorPlacement](https://thunderstore.io/c/lethal-company/p/mr_hat/BasedDecorPlacement/)
+- [Always Hear Active Walkies](https://thunderstore.io/c/lethal-company/p/ZetaArcade/AlwaysHearActiveWalkiesFork/)
+- [Based Decor Placement](https://thunderstore.io/c/lethal-company/p/mr_hat/BasedDecorPlacement/)
+- [Better Vehicle Controls](https://thunderstore.io/c/lethal-company/p/Dev1A3/BetterVehicleControls/)
 - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
 - [Elads HUD](https://thunderstore.io/c/lethal-company/p/xibao_love/FixEladsHUD/)
 - [Emblem](https://thunderstore.io/c/lethal-company/p/Darkbrewery/Emblem/)
-- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
+- [Extended Meltdown OST](https://thunderstore.io/c/lethal-company/p/Freakazoids/Extended_Meltdown_Ost/)
+- [Fair AI](https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/)
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
+- [Instant Buy](https://thunderstore.io/c/lethal-company/p/Nexor/InstantBuy/)
 - [Lethal Company VR](https://thunderstore.io/c/lethal-company/p/DaXcess/LethalCompanyVR/)
 - [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [Loading Info](https://thunderstore.io/c/lethal-company/p/chuxiaaaa/LoadingInfo/)
 - [Loading Screen](https://thunderstore.io/c/lethal-company/p/Bertogim/LoadingScreen/)
+- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
 - [Lobby Improvements](https://thunderstore.io/c/lethal-company/p/Dev1A3/LobbyImprovements/)
-- [Meltdown Music Compilation](https://thunderstore.io/c/lethal-company/p/dacodingtrashcan/MeltdownMusicCompilation/)
+- [Majority Vote](https://thunderstore.io/c/lethal-company/p/MrHydralisk/MajorityVote/)
 - [Open Body Cams](https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/)
+- [Quality Company](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
 - [Random Moon](https://thunderstore.io/c/lethal-company/p/Zigzag/RandomMoonFX/)
 - [Runtime Icons](https://thunderstore.io/c/lethal-company/p/debit_card_debit/RuntimeIcons_BetterRotations/)
+- [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/)
+- [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/)
 - [Selectable Interiors](https://thunderstore.io/c/lethal-company/p/NotezyTeam/SelectableInteriors/)
-- [Sell My Scrap](https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/)
+- [Ship Cleaner](https://thunderstore.io/c/lethal-company/p/Yakka_Productions/ShipCleaner/)
 - [Ship Windows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/)
 - [Suits Terminal](https://thunderstore.io/c/lethal-company/p/darmuh/suitsTerminal/)
 - [Terminal Formatter](https://thunderstore.io/c/lethal-company/p/mrov/TerminalFormatter/)
+- [Terminal Stuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/)
 - [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
 - [Yippee](https://thunderstore.io/c/lethal-company/p/JacuJ/YippeeTwo/)
 

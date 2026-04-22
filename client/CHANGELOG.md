@@ -1,3 +1,60 @@
+## [5.1.0] - 2026-04-22
+
+### Added
+
+- [Always Hear Active Walkies](https://thunderstore.io/c/lethal-company/p/ZetaArcade/AlwaysHearActiveWalkiesFork/)
+- [Beanies Moons](https://thunderstore.io/c/lethal-company/p/Beaniebe/Beanies_Moons/)
+- [Better Vehicle Controls](https://thunderstore.io/c/lethal-company/p/Dev1A3/BetterVehicleControls/)
+- [Classic Hatsune Miku Model](https://thunderstore.io/c/lethal-company/p/An7i/ClassicHatsuneMikuModel/)
+- [Extended Meltdown OST](https://thunderstore.io/c/lethal-company/p/Freakazoids/Extended_Meltdown_Ost/)
+- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/)
+- [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
+- [Instant Buy](https://thunderstore.io/c/lethal-company/p/Nexor/InstantBuy/)
+- [2B NieR Reincarnation Outfit](https://thunderstore.io/c/lethal-company/p/Kxoxo/2B_NieR_Reincarnation_Outfit/)
+- [Lethal Posters](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters/) packaged DLL with a few posters
+- [Lobby Control](https://thunderstore.io/c/lethal-company/p/mattymatty/LobbyControl/)
+- [Meltdown Sync Music](https://thunderstore.io/c/lethal-company/p/POTATOH/MeltdownSyncMusic/) packaged DLL directly into modpack due to deprecated dependencies
+- [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/)
+- [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/)
+- [Ship Cleaner](https://thunderstore.io/c/lethal-company/p/Yakka_Productions/ShipCleaner/)
+- [Terminal Stuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff/)
+- [Peepers](https://thunderstore.io/c/lethal-company/p/x753/Peepers/)
+- [Quality Company](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/)
+- (performance) [Destroy Item In Slot Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/)
+- (performance) [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/)
+- (performance) [LCUltrawide](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/LCUltrawide_Community/)
+
+### Changed
+
+- **ScienceBird Tweaks**:
+  - removed ship clipboard
+  - removed ship sticky note
+  - enabled ship rotating floodlight
+  - enabled ship fancy panel board
+  - enabled ship dynamic occupancy sign
+  - enabled death notification
+- **Chaos Events**:
+  - reduced minimum mines (5 -> 4)
+  - reduced maximum mines (10 -> 8)
+  - reduced minimum turrets (2 -> 1)
+  - reduced maximum mines (5 -> 3)
+  - increased minumum event interval (20 -> 40)
+- **Too Many Emotes**: unlocked all emotes
+- **General Improvements**: removed chat (opacity 0.2 -> 0)
+- All the host mods from [AurelionPack Host](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack_Host/) are now part of the main modpack
+
+### Removed
+
+- [Emergency Dice](https://thunderstore.io/c/lethal-company/p/slayer6409/Emergency_Dice_Updated/)
+- [Faster Item Dropship](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)
+- [MeltdownMusicCompilation](https://thunderstore.io/c/lethal-company/p/dacodingtrashcan/MeltdownMusicCompilation/)
+- [Moai Enemy](https://thunderstore.io/c/lethal-company/p/bcs4313/Moai_Enemy/)
+- [Sell My Scrap](https://thunderstore.io/c/lethal-company/p/Zehs/SellMyScrap/)
+- [Tartarus](https://thunderstore.io/c/lethal-company/p/Teaisnt/Tartarus/)
+- [Rangiku Matsumoto](https://thunderstore.io/c/lethal-company/p/TsuShi/RangikuMatsumoto/)
+- [Yunara Suit](https://thunderstore.io/c/lethal-company/p/inki/YunaraSuit/)
+- [Vecna](https://thunderstore.io/c/lethal-company/p/Reiko88/Vecna/)
+
 ## [5.0.4] - 2026-04-20
 
 ### Added
@@ -41,6 +98,8 @@
 ## [5.0.0] - 2026-04-19
 
 Complete repackage of the modpack for Lethal Company v80. This is a major release with significant mod compatibility changes. Many mods from previous versions are no longer compatible due to game API breaking changes. Recommend fresh installation for this version.
+
+Dependency strategy has also changed, modpack now requires only top-level dependencies. Meaning all the other mods (dependencies of the dependencies) are handled automatically, meaning you should always update any mods that require it.
 
 ## [4.2.1] - 2025-06-28
 
