@@ -1,9 +1,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.7-brightgreen)
-![Mods](https://img.shields.io/badge/mods-28-purple)
+![Mods](https://img.shields.io/badge/mods-27-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
 
-**28 performance mods • Zero gameplay changes • Drop-in ready**
+**27 performance mods • Zero gameplay changes • Drop-in ready**
 
 *The performance layer powering AurelionPack – also available standalone.*
 
@@ -11,7 +11,7 @@
 
 ## What Is This?
 
-AurelionPack Performance is a focused collection of **28 performance and bug-fix mods** with zero gameplay changes. It's the foundation bundled inside [AurelionPack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/), but also works perfectly as a **standalone performance layer** for any other modpack or vanilla Lethal Company.
+AurelionPack Performance is a focused collection of **27 performance and bug-fix mods** with zero gameplay changes. It's the foundation bundled inside [AurelionPack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/), but also works perfectly as a **standalone performance layer** for any other modpack or vanilla Lethal Company.
 
 Every mod here does exactly one thing: make the game run better and crash less.
 
@@ -101,3 +101,5 @@ Yes. AurelionPack Performance is designed to be a drop-in layer. If another modp
 ## Credits
 
 I am not associated with any of the mods listed above. All credit goes to the individual mod authors.
+
+Mod icon was made with AI assistance.

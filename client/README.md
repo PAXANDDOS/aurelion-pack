@@ -1,5 +1,10 @@
+
+![AurelionPack Banner](https://raw.githubusercontent.com/PAXANDDOS/aurelion-pack/refs/heads/master/banner.png?raw=true)
+
+<div align="center">
+
 ![Version](https://img.shields.io/badge/version-5.1.0-brightgreen)
-![Mods](https://img.shields.io/badge/mods-113-purple)
+![Mods](https://img.shields.io/badge/mods-112-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack?color=blue)
 ![Downloads2](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
@@ -9,6 +14,7 @@
 *All-in-one modpack with a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.*
 
 [📋 CHANGELOG](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/)
+</div>
 
 ## What's Included?
 
@@ -221,5 +227,7 @@ For more verbose logs, temporarily disable **AsyncLoggers** and **Less Logs** in
 ## Credits
 
 I am not associated with any of the mods listed above. All credit goes to the individual mod authors.
+
+Mod icon and banner made with AI assistance.
 
 ![](https://i.imgur.com/5NmVID0.png)
