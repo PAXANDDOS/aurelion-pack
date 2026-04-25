@@ -52,7 +52,6 @@ Generic, Mones, Wesley's
 - Mirage
 - Mopator
 - Peepers
-- Scopophobia
 - Siren Head
 - The Cabinet
 - The Rolling Chair
@@ -105,5 +104,4 @@ Generic, Mones, Wesley's
 - Ship Windows
 - Suits Terminal
 - Terminal Stuff
-- Wider Ship
 - Yippee

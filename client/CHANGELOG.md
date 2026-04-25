@@ -1,3 +1,30 @@
+## [5.2.2] - 2026-04-25
+
+### Changed
+
+- **ScienceBird Tweaks**:
+  - added teleporter cord, long tube, monitor wires
+  - removed helmet
+  - enabled consistent catwalk collision
+  - disabled shotgun shell count (handled by Quality Company)
+
+### Updated
+
+- [Based Decor Placement](https://thunderstore.io/c/lethal-company/p/mr_hat/BasedDecorPlacement/) `0.0.5` -> `0.0.6`
+- [More Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.13.3` -> `1.14.0` (now for real)
+
+### Removed
+
+- [Scopophobia](https://thunderstore.io/c/lethal-company/p/theunknowncod3r/Scopophobia/) (now for real)
+- [Wider Ship](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/)
+
+## [5.2.1] - 2026-04-25
+
+### Removed
+
+- (performance) [Error Fix](https://thunderstore.io/c/lethal-company/p/Aueser/Error_Fix/)
+- (performance) [LC Mic Recovery](https://thunderstore.io/c/lethal-company/p/Aueser/LCMicRecovery/)
+
 ## [5.2.0] - 2026-04-25
 
 Dangerous update for you. Brings 5 enemies, set of moons, interiors and a couple utilities. Plus major config overhaul to enhance performance and overall experience.

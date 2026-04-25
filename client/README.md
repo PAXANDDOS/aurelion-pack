@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-5.2.0-brightgreen)
-![Mods](https://img.shields.io/badge/mods-126-purple)
+![Version](https://img.shields.io/badge/version-5.2.2-brightgreen)
+![Mods](https://img.shields.io/badge/mods-123-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack?color=blue)
 ![Downloads2](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
@@ -128,7 +128,6 @@ Mostly for me and my friends, easily expandable
 - **Terminal Improvements** – better terminal experience with menus for suits and other stuff
 - **Open Body Cams** – monitor your crew from the ship
 - **Ship Windows** – see outside without going outside
-- **Wider Ship** – more room to breathe
 - **FOV Adjust** – customisable field of view
 - **Lead Me Out** – compass-based navigation for the directionally challenged
 - **Lethal Doors** – try to not squish youself
