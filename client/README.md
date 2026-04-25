@@ -3,13 +3,13 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-5.1.1-brightgreen)
-![Mods](https://img.shields.io/badge/mods-112-purple)
+![Version](https://img.shields.io/badge/version-5.2.0-brightgreen)
+![Mods](https://img.shields.io/badge/mods-126-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack?color=blue)
 ![Downloads2](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
 
-**100+ mods • 40+ Moons • 10+ Enemies • Optimised Performance**
+**100+ mods • 50+ Moons • 15+ Enemies • Optimised Performance**
 
 *All-in-one modpack with a decent amount of mods. It is preconfigured with optimal settings, keeping the horror vibe of the game.*
 
@@ -55,10 +55,11 @@ The full [AurelionPack Performance](https://thunderstore.io/c/lethal-company/p/P
 <details>
 <summary><b>Moons & Interiors</b></summary>
 
-**40+ new moons** across multiple curated collections:
+**50+ new moons** across multiple curated collections:
 - **Generic Moons**
 - **Beanies Moons**
 - **Kenjis Moons**
+- **Skelaahs Wild Moons**
 - **The Dam**
 - **Slaughterhouse**
 
@@ -66,18 +67,23 @@ The full [AurelionPack Performance](https://thunderstore.io/c/lethal-company/p/P
 - **Wesley's Interiors**
 - **Generic Interiors**
 - **Mones Interiors**
+- **Dungeons Ultimately Lacking Liveliness**
 
 </details>
 
 <details>
 <summary><b>Enemies & Threats</b></summary>
 
-10+ new enemies ready to ruin your day:
+15+ new enemies ready to ruin your day:
 
 - **Mirage** – mimics your crewmates' voices
 - **Locker** – the sound of scraping metal means run
 - **Faceless Stalker** – it has no face, only hunger
-- **Scopophobia** – true SCP experience
+- **Anomalocaris** – creepy thing that lives in the water
+- **Gnomes** – small and deeply unpleasant
+- **Siren Head** – you'll hear it before you see it
+- **The Cabinet** – don't open it
+- **The Rolling Chair** – office hazard of the highest order
 - **Football** – don't ask
 - **Mopator** – the facility's worst cleaning employee
 - **Men Stalker** – corporate nightmare made flesh
@@ -91,11 +97,9 @@ The full [AurelionPack Performance](https://thunderstore.io/c/lethal-company/p/P
 Mostly for me and my friends, easily expandable
 
 - **TooManyEmotes** – 200+ emotes to express your dying moments
-- **Anime Models** – 2B, Hatsune Miku, Ichigo, Shinji, Umamusume, and more
-- **Phantom Thieves & Umamusume** player model packs
-- **Zenless Zone Zero Bangboo Suits**
-- **Resident Evil HUNK Skin**
-- **Rem**
+- **Anime Models** – 2B, Hatsune Miku, and more
+- **Phantom Thieves & ZZZ Bangboo & Umamusume** player model packs
+- **Specific Models** – Rem, Hunk, and more
 
 </details>
 
@@ -124,6 +128,11 @@ Mostly for me and my friends, easily expandable
 - **Terminal Improvements** – better terminal experience with menus for suits and other stuff
 - **Open Body Cams** – monitor your crew from the ship
 - **Ship Windows** – see outside without going outside
+- **Wider Ship** – more room to breathe
+- **FOV Adjust** – customisable field of view
+- **Lead Me Out** – compass-based navigation for the directionally challenged
+- **Lethal Doors** – try to not squish youself
+- **Sell Bodies** – monetise the enemies
 - **General Improvements**, **Quality Company** – dozens of small QoL fixes
 - **ScienceBird Tweaks** – cool features as well as QoL changes
 - **Selectable Interiors** – choose your dungeon at the terminal
@@ -180,7 +189,7 @@ No. This pack should be installed on its own profile to avoid conflicts. However
 <details>
 <summary><b>Game won't launch / black screen</b></summary>
 
-Make sure you've updated all the mods in your mod manager. This modpack only includes top-level dependencies, everything else is handles automatically - just hit update.
+Make sure you've updated all the mods in your mod manager. This modpack only includes top-level dependencies, everything else is handled automatically - just hit update.
 </details>
 
 <details>

@@ -1,3 +1,79 @@
+## [5.2.0] - 2026-04-25
+
+Dangerous update for you. Brings 5 enemies, set of moons, interiors and a couple utilities. Plus major config overhaul to enhance performance and overall experience.
+
+### Added
+
+- [Anomalocaris](https://thunderstore.io/c/lethal-company/p/Ccode_lang/Anomalocaris/)
+- [Gnomes](https://thunderstore.io/c/lethal-company/p/Sconeys/Gnomes/)
+- [Siren Head](https://thunderstore.io/c/lethal-company/p/Ccode_lang/SirenHead/)
+- [The Cabinet](https://thunderstore.io/c/lethal-company/p/Cabinet_crew/TheCabinet/)
+- [The Rolling Chair](https://thunderstore.io/c/lethal-company/p/Ccode_lang/The_Rolling_Chair/)
+- [Skelaahs Wild Moons](https://thunderstore.io/c/lethal-company/p/TheWildSkelaah/SkelaahsWildMoons/)
+- [Dungeons Ultimately Lacking Liveliness](https://thunderstore.io/c/lethal-company/p/DemonMae/Dungeons_Ultimately_Lacking_Liveliness/)
+- [FOV Adjust](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)
+- [Lead Me Out](https://thunderstore.io/c/lethal-company/p/Yakka_Productions/LeadMeOut/)
+- [Lethal Doors](https://thunderstore.io/c/lethal-company/p/Entity378/Lethal_Doors_Fixed/)
+- [Sell Bodies](https://thunderstore.io/c/lethal-company/p/Entity378/SellBodiesFixed/)
+- [Open The Noor](https://thunderstore.io/c/lethal-company/p/Kolton12O/OpenTheNoor/)
+- [Wider Ship](https://thunderstore.io/c/lethal-company/p/mborsh/Wider_Ship_Mod/)
+- (performance) [Error Fix](https://thunderstore.io/c/lethal-company/p/Aueser/Error_Fix/)
+- (performance) [LC Mic Recovery](https://thunderstore.io/c/lethal-company/p/Aueser/LCMicRecovery/)
+
+### Changed
+
+- **BepInEx**: disabled disk logging & unity listening for performance
+- **Dawn Lib**: allowed LLL to override vanilla moon locked/hidden status
+- **FOV Adjust**: increased field of view (66 -> 75)
+- **General Improvements**: now keeping all items during teleport
+- **LC Ultrawide**: increased gameplay camera resolution (x1 -> x1.9), increased terminal resolution (x1 -> x1.25)
+- **Lead Me Out**: switched navigation to compass, always enabled
+- **Lethal Sponge**:
+  - enabled mesh, texture and audio deduplication
+  - disabled motion blur and bloom
+  - reduced security and ship camera framerate (15 -> 10)
+  - reduced map camera framerate (20 -> 15)
+- **More Suits**: load all suits, unlock all suits
+- **Open Body Cams**:
+  - increased camera FOV (65 -> 90)
+  - reduced render distance (25 -> 15)
+  - capped framerate at 20fps
+  - disabled camera while target is on ship
+  - enabled picture-in-picture body cam in terminal
+  - ship upgrade disabled (always enabled)
+- **ScienceBird Tweaks**:
+  - removed bottom ship collision (easier to get underneath)
+  - removed teleporter cord, long tube, generator, monitor wires and cruiser clipboard decorations
+  - restored ship helmet
+  - disabled consistent catwalk collision
+  - hazards disabled after apparatus removal or when breaker is off
+  - enabled apparatus true blackout
+  - excluded animated lights, guidance poles and emergency exit lights from blackout
+  - enabled low angle player cam
+  - enabled mine cooldown animation
+  - enabled zap gun rework (can disable traps)
+  - revamped zap gun tutorial
+  - shotgun shell count shown in HUD
+  - can eject shells from empty shotgun
+  - can place furniture while afraid
+  - weight resets when inventory is emptied
+  - Wesley's Moons: enabled Galetry video tape skip
+- **Wider Ship**: disabled inner walls
+
+### Updated
+
+- [Based Decor Placement](https://thunderstore.io/c/lethal-company/p/mr_hat/BasedDecorPlacement/) `0.0.4` -> `0.0.5`
+- [Better EXP](https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/) `2.6.3` -> `3.0.1`
+- [Kenjis Moons](https://thunderstore.io/c/lethal-company/p/rectorado/Kenjis_Moons/) `1.5.4` -> `1.5.5`
+- [Mones Interiors](https://thunderstore.io/c/lethal-company/p/MonesMonesowicz/Mones_Interiors/) `0.5.1` -> `0.5.2`
+- [More Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) `1.13.3` -> `1.14.0`
+- [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/) `4.6.1` -> `4.7.2`
+- (performance) [Starlancer AI Fix](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/) `3.12.0` -> `3.13.0`
+
+### Removed
+
+- [Scopophobia](https://thunderstore.io/c/lethal-company/p/theunknowncod3r/Scopophobia/)
+
 ## [5.1.1] - 2026-04-22
 
 Small changes to the configs. Added new modpack icons and banner.
@@ -32,7 +108,7 @@ Small changes to the configs. Added new modpack icons and banner.
 
 ## [5.1.0] - 2026-04-22
 
-After some testing I was able to make some significant changes. Removed large yet useless mods and replaced most of them with ligher alternatives. Using the freed space I was able to fit one more good bundle of moons (Beanies Moons) and still come out with a lighter modpack. Also included good utility mods to make gameplay better.
+After some testing I was able to make some significant changes. Removed large yet useless mods and replaced most of them with lighter alternatives. Using the freed space I was able to fit one more good bundle of moons (Beanies Moons) and still come out with a overall lighter modpack. Also included good utility mods to make gameplay better.
 
 ### Added
 
@@ -41,7 +117,7 @@ After some testing I was able to make some significant changes. Removed large ye
 - [Better Vehicle Controls](https://thunderstore.io/c/lethal-company/p/Dev1A3/BetterVehicleControls/)
 - [Classic Hatsune Miku Model](https://thunderstore.io/c/lethal-company/p/An7i/ClassicHatsuneMikuModel/)
 - [Extended Meltdown OST](https://thunderstore.io/c/lethal-company/p/Freakazoids/Extended_Meltdown_Ost/) replaced MeltdownMusicCompilation
-- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) replaces Vecna
+- [Faceless Stalker](https://thunderstore.io/c/lethal-company/p/Sparble/FacelessStalker/) replaced Vecna
 - [Football](https://thunderstore.io/c/lethal-company/p/Kittenji/Football/)
 - [Instant Buy](https://thunderstore.io/c/lethal-company/p/Nexor/InstantBuy/)
 - [2B NieR Reincarnation Outfit](https://thunderstore.io/c/lethal-company/p/Kxoxo/2B_NieR_Reincarnation_Outfit/)
@@ -56,7 +132,7 @@ After some testing I was able to make some significant changes. Removed large ye
 - [Quality Company](https://thunderstore.io/c/lethal-company/p/Um_no/QualityCompany/) replaced SellMyScrap
 - (performance) [Destroy Item In Slot Fix](https://thunderstore.io/c/lethal-company/p/JacobG5/DestroyItemInSlotFix/)
 - (performance) [Spider Position Fix](https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/)
-- (performance) [LCUltrawide](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/LCUltrawide_Community/)
+- (performance) [LC Ultrawide](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/LCUltrawide_Community/)
 
 ### Changed
 

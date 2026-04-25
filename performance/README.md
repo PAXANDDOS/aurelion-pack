@@ -1,17 +1,17 @@
-![Version](https://img.shields.io/badge/version-1.0.8-brightgreen)
-![Mods](https://img.shields.io/badge/mods-27-purple)
+![Version](https://img.shields.io/badge/version-1.0.9-brightgreen)
+![Mods](https://img.shields.io/badge/mods-28-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
 
-**27 performance mods • Zero gameplay changes • Drop-in ready**
+**28 performance mods • Zero gameplay changes • Drop-in ready**
 
 *The performance layer powering AurelionPack – also available standalone.*
 
-[🎮 FULL PACK](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/)
+[🎮 FULL PACK](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/) [📋 CHANGELOG](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/changelog/)
 
 ## What Is This?
 
-AurelionPack Performance is a focused collection of **27 performance and bug-fix mods** with zero gameplay changes. It's the foundation bundled inside [AurelionPack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/), but also works perfectly as a **standalone performance layer** for any other modpack or vanilla Lethal Company.
+AurelionPack Performance is a focused collection of **performance and bug-fix mods** with zero gameplay changes. It's the foundation bundled inside [AurelionPack](https://thunderstore.io/c/lethal-company/p/PAXANDDOS/AurelionPack/), but also works perfectly as a **standalone performance layer** for any other modpack or vanilla Lethal Company.
 
 Every mod here does exactly one thing: make the game run better and crash less.
 
@@ -51,6 +51,8 @@ Every mod here does exactly one thing: make the game run better and crash less.
 <details>
 <summary><b>Bug Fixes</b></summary>
 
+- [Error Fix](https://thunderstore.io/c/lethal-company/p/Aueser/Error_Fix/) – suppresses non-fatal engine errors that cause log spam and stutters
+- [LC Mic Recovery](https://thunderstore.io/c/lethal-company/p/Aueser/LCMicRecovery/) – recovers the microphone when it stops working mid-session
 - [Entrance Teleport Optimizations](https://thunderstore.io/c/lethal-company/p/mattymatty/EntranceTeleportOptimizations/) – fixes issues with entrances and fire exits
 - [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) – broad collection of vanilla bug fixes
 - [Lethal Fixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/) – additional core game bug fixes

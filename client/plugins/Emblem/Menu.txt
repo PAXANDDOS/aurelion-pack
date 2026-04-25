@@ -1,124 +1,109 @@
-AurelionPack v5.0.0 by PAXANDDOS
+AurelionPack v5.2.0 by PAXANDDOS
 
-A highly optimized modpack focused on performance while keeping the horror vibe intact. Preconfigured with optimal settings and best-in-class performance mods.
+~100 mods, 50+ moons, 15+ enemies. Preconfigured
+for performance while keeping the horror vibe.
 
-Components:
-- AurelionPack Performance
-- AurelionPack Host
-
-### Performance & Fixes
-
-- Additional Networking
-- Async Loggers
-- Barber Fixes
-- BepInEx Faster Load Asset Bundles Patcher
-- Buttery Fixes
-- Cull Factory
-- DunGen Reference Fixer
-- Enemy Sound Fixes
-- Entrance Teleport Optimizations
-- Lethal Fixes
-- Lethal Performance
-- Lethal Sponge
-- Less Logs
-- Lights Out
-- Mask Fixes
-- Masked Invis Fix
-- Matty Fixes
-- Melee Fixes
-- Pathfinding Lag Fix
-- Reverb Trigger Fix
-- Spawn Cycle Fixes
-- Starlancer AI Fix
+Includes AurelionPack Performance (28 mods).
 
 ### Gameplay
 
 - Advance Features
+- Always Hear Active Walkies
 - Better EXP
+- Better Vehicle Controls
 - Chaos Events
 - Chained Together
 - Fair AI
-- Facility Meltdown
-- Facility Overcharge
+- Facility Meltdown & Overcharge
 - Farming and Cooking
+- Football
+- Instant Buy
 - Lategame Upgrades
+- Lethal Casino
 - Lethal Progression
 - Lethal Weighted Mines
+- Lobby Control
 - Malfunctions
 - Majority Vote
+- More Company
+- Poltergeist
+- Quality Company
+- ScienceBird Tweaks
+- Ship Cleaner
+
+### Moons
+
+Beanies, Generic, Kenjis, Skelaahs Wild,
+Slaughterhouse, The Dam, Wesley's Weathers
+
+### Interiors
+
+Dungeons Ultimately Lacking Liveliness,
+Generic, Mones, Wesley's
+
+### Enemies
+
+- Anomalocaris
+- Devious Traps
+- Faceless Stalker
+- Gnomes
+- Locker
+- Men Stalker
 - Mirage
-
-### Moons & Interiors
-
-- Generic Interiors
-- Generic Moons
-- Kenjis Moons
-- Lethal Casino
-- Mones Interiors
-- Slaughterhouse
-- Tartarus
-- The Dam
-- Wesley's Interiors
-- Wesley's Weathers
+- Mopator
+- Peepers
+- Scopophobia
+- Siren Head
+- The Cabinet
+- The Rolling Chair
 
 ### Models & Cosmetics
 
-- Ichigo Kurosaki
+- 2B NieR Reincarnation Outfit
+- Classic Hatsune Miku
 - Lethal Life More Suits
+- More Suits
 - Phantom Thieves Player Models
-- Rangiku Matsumoto
 - Rem
-- Resident Evil ORC Hunk Skin
-- Shinji Hirako
-- Umamususme Player Models
-- Yachiru Kusajishi
-- Yunara Suit
-- Zenless Zone Zero Bangboo Suits
+- Resident Evil ORC Hunk
+- Too Many Emotes
+- Umamusume Player Models
+- ZZZ Bangboo Suits
 
 ### Items & Scrap
 
 - Bomb Collar
 - Chillax Scraps
-- Emergency Dice
 - Hookah Place
 - Needy Cats
 - Persona Scrap
 - Premium Scraps
 - Slaughterhouse Scraps
-- Stupid Collection of Random Articles for Players
+- Stupid Collection of Random Articles
 - Too Many Emotes Scrap
-
-### Enemies & NPCs
-
-- Devious Traps
-- Locker
-- Men Stalker
-- Moai Enemy
-- Mopator
-- Scopophobia
-- Vecna
 
 ### Utilities & QoL
 
+- Based Decor Placement
 - Coroner
-- Elads HUD
-- Emblem
-- Faster Item Dropship
+- Elad's HUD
+- Extended Meltdown OST
+- FOV Adjust
 - General Improvements
 - Immersive Visor
+- Lead Me Out
 - Lethal Company VR
+- Lethal Doors
 - Lethal Resonance
-- Loading Info
 - Loading Screen
-- Lobby Improvements
-- Meltdown Music Compilation
 - Open Body Cams
+- Open The Noor
 - Random Moon
 - Runtime Icons
 - Selectable Interiors
-- Sell My Scrap
+- Sell Bodies
 - Ship Windows
 - Suits Terminal
-- Terminal Formatter
-- Too Many Emotes
+- Terminal Stuff
+- Wider Ship
 - Yippee
