@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-5.2.2-brightgreen)
-![Mods](https://img.shields.io/badge/mods-123-purple)
+![Version](https://img.shields.io/badge/version-5.2.3-brightgreen)
+![Mods](https://img.shields.io/badge/mods-124-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack?color=blue)
 ![Downloads2](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)

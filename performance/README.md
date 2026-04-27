@@ -1,9 +1,9 @@
-![Version](https://img.shields.io/badge/version-1.0.9-brightgreen)
-![Mods](https://img.shields.io/badge/mods-26-purple)
+![Version](https://img.shields.io/badge/version-1.0.11-brightgreen)
+![Mods](https://img.shields.io/badge/mods-27-purple)
 ![Compatible](https://img.shields.io/badge/compatible-v81-red)
 ![Downloads](https://img.shields.io/thunderstore/dt/PAXANDDOS/AurelionPack_Performance?color=blue)
 
-**26 performance mods • Zero gameplay changes • Drop-in ready**
+**27 performance mods • Zero gameplay changes • Drop-in ready**
 
 *The performance layer powering AurelionPack – also available standalone.*
 

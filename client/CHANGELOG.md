@@ -1,3 +1,26 @@
+## [5.2.3] - 2026-04-27
+
+### Added
+
+- [Starlancer Enemy Escape](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerEnemyEscape/) `3.0.0`
+- (performance) [LC Mic Recovery](https://thunderstore.io/c/lethal-company/p/Aueser/LCMicRecovery/) `0.3.5` : testing if the mic issues will be fixed
+
+### Updated
+
+- [The Cabinet](https://thunderstore.io/c/lethal-company/p/Cabinet_crew/TheCabinet/) `1.12.0` -> `1.12.1`
+- [Dungeons Ultimately Lacking Liveliness](https://thunderstore.io/c/lethal-company/p/DemonMae/Dungeons_Ultimately_Lacking_Liveliness/) `1.8.1` -> `1.8.2`
+- [Farming and Cooking Mod](https://thunderstore.io/c/lethal-company/p/MelanieMelicious/Farming_and_Cooking_Mod_MelanieMelicious/) `1.3.4` -> `1.3.5`
+- [Mones Interiors](https://thunderstore.io/c/lethal-company/p/MonesMonesowicz/Mones_Interiors/) `0.5.2` -> `0.5.5`
+- [Based Decor Placement](https://thunderstore.io/c/lethal-company/p/mr_hat/BasedDecorPlacement/) `0.0.6` -> `0.0.7`
+- [Kenjis Moons](https://thunderstore.io/c/lethal-company/p/rectorado/Kenjis_Moons/) `1.5.5` -> `1.5.6`
+- [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/) `4.7.2` -> `4.7.3`
+- (performance) [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/) `1.17.4` -> `1.17.5`
+- (performance) [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/) `1.9.5` -> `1.9.6`
+
+### Removed
+
+- [Gnomes](https://thunderstore.io/c/lethal-company/p/Sconeys/Gnomes/) : likely causes `MissingMethodException` ~160 errors per second with its old usage of `EnemyAI.PlayerIsTargetable`
+
 ## [5.2.2] - 2026-04-25
 
 ### Changed
